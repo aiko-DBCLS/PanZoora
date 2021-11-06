@@ -1,0 +1,160 @@
+Species-Zoonoses-id	Species-Zoonoses_jpn	Species-Zoonoses_eng	Registered	LastUpdated
+Sp-id_1	シロアリ	Termites	2021-08-21	
+Sp-id_2	センザンコウ	Pangolins	2021-08-21	
+Sp-id_3	サシチョウバエ	Sand flies	2021-08-21	
+Sp-id_4	コウモリ	Bats	2021-08-21	
+Sp-id_5	ゴキブリ	Cockroaches	2021-08-21	
+Sp-id_6	マウス	Mice	2021-08-21	
+Sp-id_7	ヒョウヒダニ（チリダニ）	Dust mites	2021-08-21	2021-09-29
+Sp-id_8	イヌ	Dogs	2021-08-21	
+Sp-id_9	ブタ	Pigs	2021-08-21	
+Sp-id_10	家禽	Poultry 	2021-08-21	
+Sp-id_11	ネコ	Cats	2021-08-21	
+Sp-id_12	フェレット	Ferrets	2021-08-21	
+Sp-id_13	ミンク	Minks	2021-08-21	
+Sp-id_14	ハムスター	Hamsters	2021-08-21	
+Sp-id_15	霊長目	Primates	2021-08-21	2021-09-29
+Sp-id_16	コンパニオンアニマル（ペット）	Companion animals (Pets)	2021-08-21	2021-09-17
+Sp-id_19	トラ	Tigers	2021-08-23	
+Sp-id_20	ライオン	Lions	2021-08-23	
+Sp-id_21	ラクダ	Camels	2021-09-01	
+Sp-id_22	ウサギ	Rabbits	2021-09-01	
+Sp-id_23	ウシ	Cattle	2021-09-01	
+Sp-id_24	ウマ	Horses	2021-09-01	
+Sp-id_25	ヤギ	Goats	2021-09-01	
+Sp-id_26	ヒツジ	Sheep	2021-09-01	
+Sp-id_27	クマ	Bears	2021-09-01	2021-09-16
+Sp-id_28	ラット	Rats	2021-09-01	
+Sp-id_29	アライグマ	Raccoons	2021-09-27	
+Sp-id_30	スカンク	Skunks	2021-09-27	
+Sp-id_31	キツネ	Foxes	2021-09-27	
+Sp-id_32	コヨーテ	Coyotes	2021-09-27	
+Sp-id_33	ボブキャット	Bobcats	2021-09-27	
+Sp-id_34	ピューマ	Mountain lions	2021-09-27	
+Sp-id_35	オオカミ	Wolves	2021-09-27	
+Sp-id_36	ウッドチャック	Woodchucks	2021-09-27	
+Sp-id_37	ビーバー	Beavers	2021-09-27	
+Sp-id_38	モルモット	Guinea pigs	2021-09-27	
+Sp-id_39	爬虫類	Reptiles	2021-09-27	
+Sp-id_40	トリ	Birds	2021-09-27	
+Sp-id_41	観賞魚	Ornamental fishes	2021-09-27	
+Sp-id_42	魚類	Fishes	2021-09-27	2021-09-29
+Sp-id_43	コウモリバエの1種	Eucampsipoda africana (Bat flies)	2021-09-27	2021-09-29
+Sp-id_44	ダイカー	Duikers	2021-09-27	
+Sp-id_45	カメ	Turtles	2021-09-27	
+Sp-id_46	ハマダラカ	Anopheles	2021-09-27	
+Sp-id_47	トカゲ	Lizards	2021-09-27	
+Sp-id_49	オオキノコシロアリ	Macrotermes bellicosus	2021-09-29	
+Sp-id_50	フレボトミンサシチョウバエ	Phlebotomine sand flies	2021-09-29	
+Sp-id_51	家畜	Domestic animals 	2021-09-29	
+Sp-id_52	詳細未記載	Details not written	2021-09-29	
+Sp-id_53	ダニ	Mites	2021-09-29	
+Sp-id_54	ネコ科	Felidae	2021-09-29	
+Sp-id_55	イタチ科	Mustelidae	2021-09-29	
+Sp-id_56	齧歯目	Rodentia	2021-09-29	
+Sp-id_57	イヌ科	Canidae	2021-09-29	
+Sp-id_58	イノシシ科	Suidae	2021-09-29	
+Sp-id_59	鳥綱/鳥類	Aves	2021-09-29	
+Sp-id_60	飼育下の大型ネコ	Captive big cats	2021-09-29	
+Sp-id_61	翼手目	Chiroptera	2021-09-29	
+Sp-id_62	シロアリ科	Termitidae	2021-09-29	
+Sp-id_63	鱗甲目	Pholidota	2021-09-29	
+Sp-id_64	ラクダ科	Camelidae	2021-09-29	
+Sp-id_65	ウサギ科	Leporidae	2021-09-29	
+Sp-id_66	ウマ科	Equidae	2021-09-29	
+Sp-id_67	ウシ科	Bovidae	2021-09-29	
+Sp-id_68	キクガシラコウモリ	Rhinolophus ferrumequinum	2021-09-29	
+Sp-id_69	ハイイログマ	Grizzly bears	2021-09-29	
+Sp-id_70	クマ科	Ursidae	2021-09-29	
+Sp-id_71	アナウサギ	European rabbits	2021-09-29	
+Sp-id_72	アカゲザル	Rhesus monkeys/rhesus macaques	2021-09-29	
+Sp-id_73	ヒト以外の霊長目	Non-human primates	2021-09-29	
+Sp-id_74	マカク	Macaques	2021-09-29	
+Sp-id_75	ナカキクガシラコウモリ	Rhinolophus affinis	2021-09-29	
+Sp-id_76	マレーセンザンコウ（マライセンザンコウ）	Manis javanica/Malayan pangolins	2021-09-29	
+Sp-id_77	テンプル・モンキー（お供えや餌付けにより寺院や公園に住みついたサル）	Temple monkeys	2021-09-29	
+Sp-id_78	オオコウモリ	Flying foxes	2021-09-29	
+Sp-id_79	エジプトルーセットオオコウモリ	Rousettus aegyptiacus (bats) (Egyptian Fruit Bats)	2021-09-29	
+Sp-id_80	メキシコオヒキコウモリ	Mexican free-tailed bats (Tadarida mexicana)	2021-09-29	
+Sp-id_81	トビイロホオヒゲコウモリ	little brown bats (Myotis lucifugus)	2021-09-29	
+Sp-id_82	果実食コウモリ	Fruit bats	2021-09-29	
+Sp-id_83	ヒメオオコウモリ	Island flying foxes (Pteropus hypomelanus)	2021-09-29	
+Sp-id_84	花蜜食コウモリ	Nectar-feeding bats	2021-09-29	
+Sp-id_85	昆虫食コウモリ	Insectivorous bats	2021-09-29	
+Sp-id_86	アライグマ科	Procyonidae	2021-09-29	
+Sp-id_87	Cercopithecus monkeys（霊長目の1種）	Cercopithecus monkeys	2021-09-29	
+Sp-id_88	食料生産（哺乳）動物	Food production mammals	2021-09-29	
+Sp-id_89	食料生産魚	Food production fishes	2021-09-29	
+Sp-id_90	肉食動物	Carnivores	2021-09-29	
+Sp-id_91	食料生産動物	Food production animals	2021-09-29	
+Sp-id_92	ウマヅラコウモリ	Hammer-headed Bats (Hypsignathus monstrosus)	2021-09-29	
+Sp-id_93	フランケオナシケンショウコウモリ	Epauletted Fruit Bats (Epomops franqueti)	2021-09-29	
+Sp-id_94	コクビワフルーツコウモリ	Little Collared Fruit Bats (Myonycteris torquata)	2021-09-29	
+Sp-id_95	クモバエ	Nycteribiidae	2021-09-29	
+Sp-id_96	セアカリスザル	Central American squirrel monkeys (Saimiri oerstedi)	2021-09-29	
+Sp-id_97	ヘラコウモリの1種	Phyllostomid bats	2021-09-29	
+Sp-id_98	ハバシトビ	Doubletoothed kites (Harpagus bidentatus)	2021-09-29	
+Sp-id_99	宿主	Hosts	2021-10-13	
+Sp-id_100	微生物叢/マイクロバイオーム	Microbiome	2021-10-13	
+Sp-id_101	ユーラシアコヤマコウモリ	Nyctalus noctula	2021-10-13	
+Sp-id_102	ヨーロッパアブラコウモリ	Pipistrellus pipistrellus	2021-10-13	
+Sp-id_103	ヒメキクガシラコウモリ	Rhinolophus hipposideros	2021-10-13	
+Sp-id_104	カグラコウモリ（科）	Hipposideridae	2021-10-13	
+Sp-id_105	カ（科）	Culicidae	2021-10-13	
+Sp-id_106	ヤブカ（属）	Aedes	2021-10-13	
+Sp-id_107	アカイエカ	Culex pipiens	2021-10-13	
+Sp-id_108	ハボシカ属の1種	Culiseta longiareolata	2021-10-13	
+Sp-id_109	ヒトスジシマカ	Aedes albopictus	2021-10-13	
+Sp-id_110	イエカ属	Culex	2021-10-13	
+Sp-id_111	ハボシカ属	Culiseta	2021-10-13	
+Sp-id_112	哺乳綱/哺乳類	Mammals	2021-10-13	
+Sp-id_113	ハト	Pigeons	2021-10-13	
+Sp-id_114	オオコウモリ（科）	Pteropodidae	2021-10-22	
+Sp-id_115	サル	Monkeys	2021-10-22	
+Sp-id_116	ユビナガコウモリの1種	Miniopterus schreibersii	2021-10-22	
+Sp-id_117	ユビナガコウモリの1種	Miniopterus australis	2021-10-22	
+Sp-id_118	コイヌガオフルーツコウモリ	Cynopterus brachyotis	2021-10-22	
+Sp-id_119	オヒキコウモリの1種	Chaerephon plicata	2021-10-22	
+Sp-id_120	フィリピンオオコウモリ	Acerodon jubatus	2021-10-22	
+Zoonosis-id_1	人獣共通感染症	Zoonoses	2021-08-21	
+Zoonosis-id_2	リーシュマニア症	Leishmaniasis	2021-08-21	
+Zoonosis-id_3	エボラウイルス病	Ebola virus disease	2021-08-21	
+Zoonosis-id_4	新型コロナウイルス感染症	COVID-19	2021-08-21	
+Zoonosis-id_5	重症急性呼吸器症候群	SARS	2021-09-07	
+Zoonosis-id_6	中東呼吸器症候群	MERS	2021-09-07	
+Zoonosis-id_7	狂犬病	Rabies	2021-09-07	
+Zoonosis-id_8	黄熱	Yellow fever	2021-09-07	
+Zoonosis-id_9	日本脳炎	Japanese encephalitis	2021-09-07	
+Zoonosis-id_10	A型肝炎	hepatitis A	2021-09-07	
+Zoonosis-id_11	B型肝炎（ウイルス性肝炎（E型肝炎及びA型肝炎を除く））	hepatitis B (viral hepatitis (excluding hepatitis E and A))	2021-09-07	2021-09-19
+Zoonosis-id_12	（（季節性）インフルエンザ）	(Influenza (Flu))	2021-09-07	
+Zoonosis-id_13	リフトバレー熱	Rift valley fever	2021-09-07	
+Zoonosis-id_14	ウエストナイルウイルス病	West Nile virus disease	2021-09-07	
+Zoonosis-id_15	チクングニア熱	Chikungunya fever	2021-09-07	
+Zoonosis-id_16	デング熱	Dengue fever	2021-09-07	
+Zoonosis-id_17	クリミア・コンゴ出血熱	Crimean-Congo hemorrhagic fever	2021-09-07	
+Zoonosis-id_18	Bウイルス病	B virus infection	2021-09-12	
+Zoonosis-id_19	（未確認（SV40））	(Unidentified (SV40))	2021-09-12	
+Zoonosis-id_20	（未確認（SRV））	(Unidentified (SRV))	2021-09-12	
+Zoonosis-id_21	（成人T細胞白血病）	(Adult T-cell leukemia)	2021-09-12	
+Zoonosis-id_22	（サルT細胞白血病/リンパ腫 ）	(Simian T-cell leukemia)	2021-09-12	
+Zoonosis-id_23	（後天性免疫不全症候群）	(Acquired immunodeficiency syndrome)	2021-09-12	
+Zoonosis-id_24	（未確認（SFV））	(Unidentified (SFV))	2021-09-12	
+Zoonosis-id_25	リッサウイルス感染症（狂犬病ウイルスを除く）	Lyssavirus infection (excluding Rabies)	2021-09-12	
+Zoonosis-id_26	ニパウイルス感染症	Nipah virus infection	2021-09-12	
+Zoonosis-id_27	ヘンドラウイルス感染症	Hendra virus infection	2021-09-12	
+Zoonosis-id_28	マールブルグ病	Marburg virus disease	2021-09-12	
+Zoonosis-id_29	ハンタウイルス肺症候群	Hantavirus Pulmonary Syndrome	2021-09-27	
+Zoonosis-id_30	ダニ媒介脳炎	tick-borne encephalitis	2021-09-27	
+Zoonosis-id_31	ウイルス性肝炎（E型肝炎及びA型肝炎を除く）	viral hepatitis (excluding hepatitis E and A)	2021-09-27	
+Zoonosis-id_32	E型肝炎	hepatitis E	2021-09-27	
+Zoonosis-id_33	感染性胃腸炎（病原体がロタウイルスであるものに限る。）	infectious gastroenteritis (Rotavirus infection)	2021-09-27	
+Zoonosis-id_34	（牛痘ウイルス感染症）	(Cowpox)	2021-09-27	
+Zoonosis-id_35	（昆虫媒介性ウイルス感染症の１種、タヒナ）	(Tahyna virus infection)	2021-09-27	
+Zoonosis-id_36	リンパ球性脈絡髄膜炎	Lymphocytic choriomeningitis	2021-09-27	
+Zoonosis-id_37	バルトネラ感染症	Bartonella infections	2021-09-27	
+Zoonosis-id_38	ジカウイルス感染症	Zika Virus Infection	2021-10-13	
+Zoonosis-id_39	エボラウイルス病ザイール型	Ebola Zaire virus disease	2021-10-22	
+Zoonosis-id_40	エボラウイルス病レストン型	Ebola Reston virus disease	2021-10-22	
+Zoonosis-id_41	エボラウイルス病スーダン型	Ebola Sudan virus disease	2021-10-22	
+Zoonosis-id_42	エボラウイルス病タイフォレスト型	Ebola Tai Forest virus disease	2021-10-22	
