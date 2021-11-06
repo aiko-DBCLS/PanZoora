@@ -43,7 +43,7 @@ Dic-id_42	macrophages	MESH:D008264		2021-08-21
 Dic-id_43	THP-1	MESH:D000074084		2021-08-21	
 Dic-id_44	IL-8	Gene:3576		2021-08-21	
 Dic-id_46	cytokine	MESH:D016207		2021-08-21	
-Dic-id_47	IL-1β	Gene:7124		2021-08-21	2021-08-25
+Dic-id_47	IL-1β	Gene:3553		2021-08-21	2021-11-01
 Dic-id_48	IFNγ	Gene:3458		2021-08-21	2021-08-25
 Dic-id_49	challenged			2021-08-21	
 Dic-id_50	intestinal	MESH:D007422		2021-08-21	
@@ -2498,3 +2498,150 @@ Dic-id_2499	geographic	MESH:D005843		2021-10-22
 Dic-id_2500	ebolaviruses	Tax:186539		2021-10-22	
 Dic-id_2501	the region	MESH:D010679		2021-10-22	
 Dic-id_2502	total of 464			2021-10-22	
+Dic-id_2503	Squama	MESH:D000075342		2021-11-05	
+Dic-id_2504	Manitis	Tax:9972		2021-11-05	
+Dic-id_2505	scale	MESH:D000075342		2021-11-05	
+Dic-id_2506	traditional Chinese medicine	MESH:D008516		2021-11-05	
+Dic-id_2507	thousands			2021-11-05	
+Dic-id_2508	six			2021-11-05	
+Dic-id_2509	electronic databases	MESH:D019991		2021-11-05	
+Dic-id_2510	PubMed	MESH:D039781		2021-11-05	
+Dic-id_2511	Embase		https://www.embase.com/landing?status=grey	2021-11-05	
+Dic-id_2512	Cochrane Library		https://www.cochranelibrary.com/	2021-11-05	
+Dic-id_2513	China National Knowledge Infrastructure Database		https://global.cnki.net/index/	2021-11-05	
+Dic-id_2514	CNKI		https://global.cnki.net/index/	2021-11-05	
+Dic-id_2515	WanFang Database			2021-11-05	
+Dic-id_2516	SinoMed			2021-11-05	
+Dic-id_2517	inception			2021-11-05	
+Dic-id_2518	May 1			2021-11-05	
+Dic-id_2519	articles			2021-11-05	
+Dic-id_2520	4			2021-11-05	
+Dic-id_2521	randomized controlled trials	MESH:D016032		2021-11-05	
+Dic-id_2522	case control study	MESH:D016022		2021-11-05	
+Dic-id_2523	case series			2021-11-05	
+Dic-id_2524	case reports			2021-11-05	
+Dic-id_2525	diseases			2021-11-05	
+Dic-id_2526	RCTs	MESH:D016032		2021-11-05	
+Dic-id_2527	herbal	MESH:D010946		2021-11-05	
+Dic-id_2528	decoction			2021-11-05	
+Dic-id_2529	antibiotics	MESH:D000900		2021-11-05	
+Dic-id_2530	additional benifit (benefit)			2021-11-05	
+Dic-id_2531	postpartum	MESH:D049590		2021-11-05	
+Dic-id_2532	hypogalactia	MESH:D007775		2021-11-05	
+Dic-id_2533	mesenteric lymphadenitis	MESH:D008640		2021-11-05	
+Dic-id_2534	methodological	MESH:D008722		2021-11-05	
+Dic-id_2535	irrational			2021-11-05	
+Dic-id_2536	outcomes		MESH:D016896	2021-11-05	
+Dic-id_2537	other two			2021-11-05	
+Dic-id_2538	negative			2021-11-05	
+Dic-id_2539	results		MESH:D016896	2021-11-05	
+Dic-id_2540	non			2021-11-05	
+Dic-id_2541	valuable evidence			2021-11-05	
+Dic-id_2542	small			2021-11-05	
+Dic-id_2543	incomplete			2021-11-05	
+Dic-id_2544	records		MESH:D008499	2021-11-05	
+Dic-id_2545	standardized			2021-11-05	
+Dic-id_2546	outcome		MESH:D016896	2021-11-05	
+Dic-id_2547	currently			2021-11-05	
+Dic-id_2548	cannot			2021-11-05	
+Dic-id_2549	support			2021-11-05	
+Dic-id_2550	clinical use			2021-11-05	
+Dic-id_2551	medicinal value	MESH:D008516		2021-11-05	
+Dic-id_2552	levels			2021-11-05	
+Dic-id_2553	31			2021-11-05	
+Dic-id_2554	free			2021-11-05	
+Dic-id_2555	amino acids	MESH:D000596		2021-11-05	
+Dic-id_2556	50			2021-11-05	
+Dic-id_2557	RA	MESH:D001172		2021-11-05	
+Dic-id_2558	subjects	Tax:9606		2021-11-05	
+Dic-id_2559	51			2021-11-05	
+Dic-id_2560	controls	Tax:9606		2021-11-05	
+Dic-id_2561	therapy			2021-11-05	
+Dic-id_2562	subjects	MESH:D010361		2021-11-05	
+Dic-id_2563	methotrexate	MESH:D008727		2021-11-05	
+Dic-id_2564	leflunomide	MESH:D000077339		2021-11-05	
+Dic-id_2565	infliximab	MESH:D000069285		2021-11-05	
+Dic-id_2566	adalimumab	MESH:D000068879		2021-11-05	
+Dic-id_2567	etanercept	MESH:D000068800		2021-11-05	
+Dic-id_2568	tocilizumab	MESH:C502936		2021-11-05	
+Dic-id_2569	p			2021-11-05	
+Dic-id_2570	0.00954			2021-11-05	
+Dic-id_2571	prednisolone	MESH:D011239		2021-11-05	
+Dic-id_2572	NSAID	MESH:D000894		2021-11-05	
+Dic-id_2573	0.03109			2021-11-05	
+Dic-id_2574	tryptophan	MESH:D014364		2021-11-05	
+Dic-id_2575	0.01723			2021-11-05	
+Dic-id_2576	arginine	MESH:D001120		2021-11-05	
+Dic-id_2577	samples	MESH:D044967		2021-11-05	
+Dic-id_2578	class III			2021-11-05	
+Dic-id_2579	class			2021-11-05	
+Dic-id_2580	IV			2021-11-05	
+Dic-id_2581	0.02332			2021-11-05	
+Dic-id_2582	glycine	MESH:D005998		2021-11-05	
+Dic-id_2583	them	MESH:D044967		2021-11-05	
+Dic-id_2584	class I+II			2021-11-05	
+Dic-id_2585	III			2021-11-05	
+Dic-id_2586	Steinbrocker functional classification			2021-11-05	
+Dic-id_2587	0.03366			2021-11-05	
+Dic-id_2588	p value			2021-11-05	
+Dic-id_2589	less than 0.05			2021-11-05	
+Dic-id_2590	selected amino acids	MESH:D005998		2021-11-05	
+Dic-id_2591	selected amino acids	MESH:D001120		2021-11-05	
+Dic-id_2592	selected amino acids	MESH:D014364		2021-11-05	
+Dic-id_2593	selected amino acids	MESH:D013912		2021-11-05	
+Dic-id_2594	immune response	MESH:D007109		2021-11-05	
+Dic-id_2595	PS	Tax:9972		2021-11-05	
+Dic-id_2596	PS	MESH:D000075342		2021-11-05	
+Dic-id_2597	traditional Chinese medicine	MESH:D008516		2021-11-05	
+Dic-id_2598	TCM	MESH:D008516		2021-11-05	
+Dic-id_2599	rheumatic arthritis	MESH:D001172		2021-11-05	
+Dic-id_2600	diverse			2021-11-05	
+Dic-id_2601	medicinal formulations		MESH:D005569	2021-11-05	
+Dic-id_2602	supplement	MESH:D019587		2021-11-05	
+Dic-id_2603	formulation		MESH:D005569	2021-11-05	
+Dic-id_2604	vinegar	MESH:D019342		2021-11-05	
+Dic-id_2605	PSP	Tax:9972		2021-11-05	
+Dic-id_2606	PSP	MESH:D000075342		2021-11-05	
+Dic-id_2607	PSP	MESH:D019342		2021-11-05	
+Dic-id_2608	traditional		MESH:D008516	2021-11-05	
+Dic-id_2609	PSD	MESH:D000075342	MESH:D008516	2021-11-05	
+Dic-id_2610	PSD	Tax:9972	MESH:D008516	2021-11-05	
+Dic-id_2611	non-steroidal anti-inflammatory drug	MESH:D000894		2021-11-05	
+Dic-id_2612	NASID (NSAID)	MESH:D000894		2021-11-05	
+Dic-id_2613	meloxicam	MESH:D000077239		2021-11-05	
+Dic-id_2614	Sprague Dawley rat	Tax:10116		2021-11-05	
+Dic-id_2615	Freund's adjuvant	MESH:D005620		2021-11-05	
+Dic-id_2616	CFA		MESH:D005620	2021-11-05	
+Dic-id_2617	249			2021-11-05	
+Dic-id_2618	mg/kg.bw			2021-11-05	
+Dic-id_2619	day			2021-11-05	
+Dic-id_2620	14-42			2021-11-05	
+Dic-id_2621	alleviated			2021-11-05	
+Dic-id_2622	paw		MESH:D005528	2021-11-05	
+Dic-id_2623	edema	MESH:D004487		2021-11-05	
+Dic-id_2624	< 0.001			2021-11-05	
+Dic-id_2625	arthritic	MESH:D001168		2021-11-05	
+Dic-id_2626	index			2021-11-05	
+Dic-id_2627	score			2021-11-05	
+Dic-id_2628	0-1.5			2021-11-05	
+Dic-id_2629	cell	MESH:D002477		2021-11-05	
+Dic-id_2630	infiltration			2021-11-05	
+Dic-id_2631	ankle joint	MESH:D000843		2021-11-05	
+Dic-id_2632	TNF-α	Gene:24835		2021-11-05	
+Dic-id_2633	< 0.01			2021-11-05	
+Dic-id_2634	IL-1β	Gene:24494		2021-11-05	
+Dic-id_2635	< 0.05			2021-11-05	
+Dic-id_2636	fewer			2021-11-05	
+Dic-id_2637	efficacies	MESH:D016896		2021-11-05	
+Dic-id_2638	outperformed			2021-11-05	
+Dic-id_2639	830			2021-11-05	
+Dic-id_2640	reducing			2021-11-05	
+Dic-id_2641	whole			2021-11-05	
+Dic-id_2642	blood viscosity	MESH:D001809		2021-11-05	
+Dic-id_2643	unobserved			2021-11-05	
+Dic-id_2644	anti			2021-11-05	
+Dic-id_2645	integrated			2021-11-05	
+Dic-id_2646	long-term			2021-11-05	
+Dic-id_2647	RA management	MESH:D019468	MESH:D001172	2021-11-05	
+Dic-id_2648	integrative			2021-11-05	
+Dic-id_2649	treatment strategy			2021-11-05	

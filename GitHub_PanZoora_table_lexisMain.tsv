@@ -1112,11 +1112,11 @@ lexisMain-id_1120	lexisGroup-id_600	Sp-id_91	Sp-id_16	Category-id_12	2021-09-29
 lexisMain-id_1121	lexisGroup-id_517	Sp-id_93	Sp-id_61	Category-id_12	2021-09-29	
 lexisMain-id_1122	lexisGroup-id_517	Sp-id_94	Sp-id_61	Category-id_12	2021-09-29	
 lexisMain-id_1123	lexisGroup-id_601	Zoonosis-id_1		Category-id_12	2021-10-13	
-lexisMain-id_1124	lexisGroup-id_601	Sp-id_52	Sp-id_99	Category-id_12	2021-09-29	
+lexisMain-id_1124	lexisGroup-id_601	Sp-id_4	Sp-id_99	Category-id_12	2021-09-29	2021-10-31
 lexisMain-id_1125	lexisGroup-id_601	Sp-id_52	Sp-id_100	Category-id_12	2021-10-13	
 lexisMain-id_1126	lexisGroup-id_602	Sp-id_4	Sp-id_61	Category-id_12	2021-10-13	
 lexisMain-id_1127	lexisGroup-id_603	Zoonosis-id_1		Category-id_12	2021-10-13	
-lexisMain-id_1128	lexisGroup-id_603	Sp-id_52	Sp-id_99	Category-id_12	2021-10-13	
+lexisMain-id_1128	lexisGroup-id_603	Sp-id_4	Sp-id_99	Category-id_12	2021-10-13	2021-10-31
 lexisMain-id_1129	lexisGroup-id_603	Sp-id_52	Sp-id_100	Category-id_12	2021-10-13	
 lexisMain-id_1130	lexisGroup-id_604	Sp-id_4	Sp-id_61	Category-id_12	2021-10-13	
 lexisMain-id_1131	lexisGroup-id_605	Sp-id_85	Sp-id_61	Category-id_12	2021-10-13	
@@ -1505,3 +1505,52 @@ lexisMain-id_1513	lexisGroup-id_745	Zoonosis-id_40	Zoonosis-id_3	Category-id_14	
 lexisMain-id_1514	lexisGroup-id_745	Sp-id_4	Sp-id_61	Category-id_14	2021-10-22	
 lexisMain-id_1515	lexisGroup-id_736	Zoonosis-id_40	Zoonosis-id_3	Category-id_14	2021-10-22	
 lexisMain-id_1516	lexisGroup-id_746	Zoonosis-id_40	Zoonosis-id_3	Category-id_14	2021-10-22	
+lexisMain-id_1517	lexisGroup-id_756	Sp-id_2	Sp-id_63	Category-id_12	2021-11-05	
+lexisMain-id_1518	lexisGroup-id_757	Sp-id_2	Sp-id_63	Category-id_12	2021-11-05	
+lexisMain-id_1519	lexisGroup-id_758	Sp-id_2	Sp-id_63	Category-id_12	2021-11-05	
+lexisMain-id_1520	lexisGroup-id_759	Sp-id_2	Sp-id_63	Category-id_12	2021-11-05	
+lexisMain-id_1521	lexisGroup-id_760	Sp-id_2	Sp-id_63	Category-id_12	2021-11-05	
+lexisMain-id_1522	lexisGroup-id_761	Sp-id_2	Sp-id_63	Category-id_12	2021-11-05	
+lexisMain-id_1523	lexisGroup-id_762	Sp-id_2	Sp-id_63	Category-id_12	2021-11-05	
+lexisMain-id_1524	lexisGroup-id_763	Sp-id_2	Sp-id_63	Category-id_12	2021-11-05	
+lexisMain-id_1525	lexisGroup-id_764	Sp-id_2	Sp-id_63	Category-id_12	2021-11-05	
+lexisMain-id_1526	lexisGroup-id_765	Sp-id_2	Sp-id_63	Category-id_12	2021-11-05	
+lexisMain-id_1527	lexisGroup-id_766	Sp-id_2	Sp-id_63	Category-id_12	2021-11-05	
+lexisMain-id_1528	lexisGroup-id_767	Zoonosis-id_43		Category-id_12	2021-11-05	
+lexisMain-id_1529	lexisGroup-id_772	Zoonosis-id_43		Category-id_12	2021-11-05	
+lexisMain-id_1530	lexisGroup-id_770	Zoonosis-id_43		Category-id_12	2021-11-05	
+lexisMain-id_1531	lexisGroup-id_771	Zoonosis-id_43		Category-id_12	2021-11-05	
+lexisMain-id_1532	lexisGroup-id_773	Zoonosis-id_43		Category-id_12	2021-11-05	
+lexisMain-id_1533	lexisGroup-id_768	Zoonosis-id_43		Category-id_12	2021-11-05	
+lexisMain-id_1534	lexisGroup-id_769	Zoonosis-id_43		Category-id_12	2021-11-05	
+lexisMain-id_1535	lexisGroup-id_774	Zoonosis-id_43		Category-id_12	2021-11-05	
+lexisMain-id_1536	lexisGroup-id_775	Sp-id_2	Sp-id_63	Category-id_12	2021-11-05	
+lexisMain-id_1537	lexisGroup-id_776	Zoonosis-id_43		Category-id_10	2021-11-05	
+lexisMain-id_1538	lexisGroup-id_777	Zoonosis-id_43		Category-id_12	2021-11-05	
+lexisMain-id_1539	lexisGroup-id_778	Zoonosis-id_43		Category-id_12	2021-11-05	
+lexisMain-id_1540	lexisGroup-id_779	Zoonosis-id_43		Category-id_12	2021-11-05	
+lexisMain-id_1541	lexisGroup-id_777	Sp-id_2	Sp-id_63	Category-id_12	2021-11-05	
+lexisMain-id_1542	lexisGroup-id_778	Sp-id_2	Sp-id_63	Category-id_12	2021-11-05	
+lexisMain-id_1543	lexisGroup-id_779	Sp-id_2	Sp-id_63	Category-id_12	2021-11-05	
+lexisMain-id_1544	lexisGroup-id_780	Zoonosis-id_43		Category-id_12	2021-11-05	
+lexisMain-id_1545	lexisGroup-id_780	Sp-id_2	Sp-id_63	Category-id_12	2021-11-05	
+lexisMain-id_1546	lexisGroup-id_781	Zoonosis-id_43		Category-id_12	2021-11-05	
+lexisMain-id_1547	lexisGroup-id_781	Sp-id_2	Sp-id_63	Category-id_12	2021-11-05	
+lexisMain-id_1548	lexisGroup-id_782	Zoonosis-id_43		Category-id_12	2021-11-05	
+lexisMain-id_1549	lexisGroup-id_782	Sp-id_2	Sp-id_63	Category-id_12	2021-11-05	
+lexisMain-id_1550	lexisGroup-id_777	Zoonosis-id_43		Category-id_14	2021-11-05	
+lexisMain-id_1551	lexisGroup-id_778	Zoonosis-id_43		Category-id_14	2021-11-05	
+lexisMain-id_1552	lexisGroup-id_779	Zoonosis-id_43		Category-id_14	2021-11-05	
+lexisMain-id_1553	lexisGroup-id_780	Zoonosis-id_43		Category-id_14	2021-11-05	
+lexisMain-id_1554	lexisGroup-id_781	Zoonosis-id_43		Category-id_14	2021-11-05	
+lexisMain-id_1555	lexisGroup-id_777	Sp-id_2	Sp-id_63	Category-id_14	2021-11-05	
+lexisMain-id_1556	lexisGroup-id_778	Sp-id_2	Sp-id_63	Category-id_14	2021-11-05	
+lexisMain-id_1557	lexisGroup-id_779	Sp-id_2	Sp-id_63	Category-id_14	2021-11-05	
+lexisMain-id_1558	lexisGroup-id_780	Sp-id_2	Sp-id_63	Category-id_14	2021-11-05	
+lexisMain-id_1559	lexisGroup-id_781	Sp-id_2	Sp-id_63	Category-id_14	2021-11-05	
+lexisMain-id_1560	lexisGroup-id_768	Zoonosis-id_43		Category-id_14	2021-11-05	
+lexisMain-id_1561	lexisGroup-id_769	Zoonosis-id_43		Category-id_14	2021-11-05	
+lexisMain-id_1562	lexisGroup-id_774	Zoonosis-id_43		Category-id_14	2021-11-05	
+lexisMain-id_1563	lexisGroup-id_768	Sp-id_2	Sp-id_63	Category-id_14	2021-11-05	
+lexisMain-id_1564	lexisGroup-id_769	Sp-id_2	Sp-id_63	Category-id_14	2021-11-05	
+lexisMain-id_1565	lexisGroup-id_774	Sp-id_2	Sp-id_63	Category-id_14	2021-11-05	
