@@ -96,10 +96,10 @@ relatedNote-id_101	Sp-id_10	Sp-id_59	Category-id_12	lexisMain-id_95	2021-09-12	2
 relatedNote-id_102	Zoonosis-id_4		Category-id_7	lexisMain-id_96	2021-09-12	2021-09-29
 relatedNote-id_103	Sp-id_60	Sp-id_54	Category-id_12	lexisMain-id_97	2021-09-12	2021-09-29
 relatedNote-id_104	Sp-id_13	Sp-id_55	Category-id_12	lexisMain-id_98	2021-09-12	2021-09-29
-relatedNote-id_105	Sp-id_52	Sp-id_16	Category-id_12	lexisMain-id_99	2021-09-12	2021-09-29
+relatedNote-id_105	Sp-id_16	Sp-id_52	Category-id_12	lexisMain-id_99	2021-09-12	2021-09-29
 relatedNote-id_106	Zoonosis-id_4		Category-id_12	lexisMain-id_100	2021-09-12	2021-09-29
 relatedNote-id_107	Sp-id_8	Sp-id_57	Category-id_5	lexisMain-id_101	2021-09-12	2021-09-29
-relatedNote-id_108	Sp-id_52	Sp-id_54	Category-id_5	lexisMain-id_102	2021-09-12	2021-09-29
+relatedNote-id_108	Sp-id_54	Sp-id_54	Category-id_5	lexisMain-id_102	2021-09-12	2021-09-29
 relatedNote-id_109	Sp-id_13	Sp-id_55	Category-id_5	lexisMain-id_103	2021-09-12	2021-09-29
 relatedNote-id_110	Zoonosis-id_4		Category-id_7	lexisMain-id_104	2021-09-12	2021-09-29
 relatedNote-id_111	Zoonosis-id_4		Category-id_7	lexisMain-id_687	2021-09-12	2021-09-29
@@ -109,21 +109,21 @@ relatedNote-id_114	Sp-id_60	Sp-id_54	Category-id_14	lexisMain-id_106	2021-09-12	
 relatedNote-id_115	Sp-id_60	Sp-id_54	Category-id_14	lexisMain-id_107	2021-09-12	2021-09-29
 relatedNote-id_116	Sp-id_13	Sp-id_55	Category-id_14	lexisMain-id_108	2021-09-12	2021-09-29
 relatedNote-id_117	Sp-id_13	Sp-id_55	Category-id_14	lexisMain-id_109	2021-09-12	2021-09-29
-relatedNote-id_118	Sp-id_52	Sp-id_16	Category-id_14	lexisMain-id_110	2021-09-12	2021-09-29
-relatedNote-id_119	Sp-id_52	Sp-id_16	Category-id_14	lexisMain-id_111	2021-09-12	2021-09-29
+relatedNote-id_118	Sp-id_16	Sp-id_52	Category-id_14	lexisMain-id_110	2021-09-12	2021-09-29
+relatedNote-id_119	Sp-id_16	Sp-id_52	Category-id_14	lexisMain-id_111	2021-09-12	2021-09-29
 relatedNote-id_120	Sp-id_60	Sp-id_54	Category-id_7	lexisMain-id_112	2021-09-12	2021-09-29
 relatedNote-id_121	Sp-id_60	Sp-id_54	Category-id_7	lexisMain-id_113	2021-09-12	2021-09-29
 relatedNote-id_122	Sp-id_13	Sp-id_55	Category-id_7	lexisMain-id_114	2021-09-12	2021-09-29
 relatedNote-id_123	Sp-id_13	Sp-id_55	Category-id_7	lexisMain-id_115	2021-09-12	2021-09-29
-relatedNote-id_124	Sp-id_52	Sp-id_16	Category-id_7	lexisMain-id_116	2021-09-12	2021-09-29
-relatedNote-id_125	Sp-id_52	Sp-id_16	Category-id_7	lexisMain-id_117	2021-09-12	2021-09-29
+relatedNote-id_124	Sp-id_16	Sp-id_52	Category-id_7	lexisMain-id_116	2021-09-12	2021-09-29
+relatedNote-id_125	Sp-id_16	Sp-id_52	Category-id_7	lexisMain-id_117	2021-09-12	2021-09-29
 relatedNote-id_126	Zoonosis-id_4		Category-id_7	lexisMain-id_118	2021-09-12	2021-09-29
 relatedNote-id_127	Sp-id_13	Sp-id_55	Category-id_7	lexisMain-id_119	2021-09-12	2021-09-29
 relatedNote-id_128	Zoonosis-id_4		Category-id_14	lexisMain-id_120	2021-09-12	2021-09-29
 relatedNote-id_129	Zoonosis-id_1		Category-id_14	lexisMain-id_121	2021-09-12	2021-09-29
 relatedNote-id_130	Sp-id_60	Sp-id_54	Category-id_14	lexisMain-id_122	2021-09-12	2021-09-29
 relatedNote-id_131	Sp-id_13	Sp-id_55	Category-id_14	lexisMain-id_123	2021-09-12	2021-09-29
-relatedNote-id_132	Sp-id_52	Sp-id_16	Category-id_14	lexisMain-id_124	2021-09-12	2021-09-29
+relatedNote-id_132	Sp-id_16	Sp-id_52	Category-id_14	lexisMain-id_124	2021-09-12	2021-09-29
 relatedNote-id_133	Zoonosis-id_4		Category-id_11	lexisMain-id_125	2021-09-12	2021-09-29
 relatedNote-id_134	Zoonosis-id_1		Category-id_11	lexisMain-id_126	2021-09-12	2021-09-29
 relatedNote-id_135	Zoonosis-id_4		Category-id_11	lexisMain-id_125	2021-09-12	2021-09-29
@@ -225,7 +225,7 @@ relatedNote-id_230	Zoonosis-id_1		Category-id_12	lexisMain-id_204	2021-09-12	202
 relatedNote-id_231	Sp-id_11	Sp-id_54	Category-id_12	lexisMain-id_205	2021-09-12	2021-09-29
 relatedNote-id_232	Zoonosis-id_4		Category-id_7	lexisMain-id_206	2021-09-12	2021-09-29
 relatedNote-id_233	Sp-id_11	Sp-id_54	Category-id_11	lexisMain-id_207	2021-09-12	2021-09-29
-relatedNote-id_234	Sp-id_52	Sp-id_16	Category-id_11	lexisMain-id_208	2021-09-12	2021-09-29
+relatedNote-id_234	Sp-id_16	Sp-id_52	Category-id_11	lexisMain-id_208	2021-09-12	2021-09-29
 relatedNote-id_235	Zoonosis-id_4		Category-id_11	lexisMain-id_209	2021-09-12	2021-09-29
 relatedNote-id_236	Zoonosis-id_1		Category-id_11	lexisMain-id_210	2021-09-12	2021-09-29
 relatedNote-id_237	Zoonosis-id_4		Category-id_5	lexisMain-id_211	2021-09-12	2021-09-29
@@ -915,28 +915,28 @@ relatedNote-id_920	Sp-id_39	Sp-id_39	Category-id_12	lexisMain-id_842	2021-09-27	
 relatedNote-id_921	Sp-id_40	Sp-id_59	Category-id_12	lexisMain-id_843	2021-09-27	2021-09-29
 relatedNote-id_922	Sp-id_41	Sp-id_42	Category-id_12	lexisMain-id_844	2021-09-27	2021-09-29
 relatedNote-id_923	Sp-id_9	Sp-id_58	Category-id_12	lexisMain-id_845	2021-09-27	2021-09-29
-relatedNote-id_924	Sp-id_52	Sp-id_88	Category-id_12	lexisMain-id_846	2021-09-27	2021-09-29
-relatedNote-id_925	Sp-id_52	Sp-id_88	Category-id_12	lexisMain-id_847	2021-09-27	2021-09-29
+relatedNote-id_924	Sp-id_88	Sp-id_52	Category-id_12	lexisMain-id_846	2021-09-27	2021-09-29
+relatedNote-id_925	Sp-id_88	Sp-id_52	Category-id_12	lexisMain-id_847	2021-09-27	2021-09-29
 relatedNote-id_926	Zoonosis-id_1		Category-id_12	lexisMain-id_848	2021-09-27	2021-09-29
 relatedNote-id_927	Zoonosis-id_1		Category-id_12	lexisMain-id_849	2021-09-27	2021-09-29
-relatedNote-id_928	Sp-id_52	Sp-id_16	Category-id_12	lexisMain-id_1107	2021-09-27	2021-09-29
-relatedNote-id_929	Sp-id_52	Sp-id_16	Category-id_12	lexisMain-id_850	2021-09-27	2021-09-29
+relatedNote-id_928	Sp-id_16	Sp-id_52	Category-id_12	lexisMain-id_1107	2021-09-27	2021-09-29
+relatedNote-id_929	Sp-id_16	Sp-id_52	Category-id_12	lexisMain-id_850	2021-09-27	2021-09-29
 relatedNote-id_930	Zoonosis-id_1		Category-id_12	lexisMain-id_848	2021-09-27	2021-09-29
 relatedNote-id_931	Zoonosis-id_1		Category-id_12	lexisMain-id_851	2021-09-27	2021-09-29
-relatedNote-id_932	Sp-id_52	Sp-id_16	Category-id_12	lexisMain-id_1107	2021-09-27	2021-09-29
-relatedNote-id_933	Sp-id_52	Sp-id_16	Category-id_12	lexisMain-id_852	2021-09-27	2021-09-29
+relatedNote-id_932	Sp-id_16	Sp-id_52	Category-id_12	lexisMain-id_1107	2021-09-27	2021-09-29
+relatedNote-id_933	Sp-id_16	Sp-id_52	Category-id_12	lexisMain-id_852	2021-09-27	2021-09-29
 relatedNote-id_934	Zoonosis-id_1		Category-id_12	lexisMain-id_848	2021-09-27	2021-09-29
 relatedNote-id_935	Zoonosis-id_1		Category-id_12	lexisMain-id_853	2021-09-27	2021-09-29
 relatedNote-id_936	Sp-id_40	Sp-id_59	Category-id_12	lexisMain-id_854	2021-09-27	2021-09-29
 relatedNote-id_937	Sp-id_40	Sp-id_59	Category-id_12	lexisMain-id_855	2021-09-27	2021-09-29
 relatedNote-id_938	Sp-id_9	Sp-id_58	Category-id_12	lexisMain-id_856	2021-09-27	2021-09-29
 relatedNote-id_939	Sp-id_9	Sp-id_58	Category-id_12	lexisMain-id_857	2021-09-27	2021-09-29
-relatedNote-id_940	Sp-id_52	Sp-id_16	Category-id_12	lexisMain-id_1107	2021-09-27	2021-09-29
-relatedNote-id_941	Sp-id_52	Sp-id_16	Category-id_12	lexisMain-id_858	2021-09-27	2021-09-29
+relatedNote-id_940	Sp-id_16	Sp-id_52	Category-id_12	lexisMain-id_1107	2021-09-27	2021-09-29
+relatedNote-id_941	Sp-id_16	Sp-id_52	Category-id_12	lexisMain-id_858	2021-09-27	2021-09-29
 relatedNote-id_942	Zoonosis-id_1		Category-id_12	lexisMain-id_848	2021-09-27	2021-09-29
 relatedNote-id_943	Zoonosis-id_1		Category-id_12	lexisMain-id_859	2021-09-27	2021-09-29
-relatedNote-id_944	Sp-id_52	Sp-id_89	Category-id_12	lexisMain-id_860	2021-09-27	2021-09-29
-relatedNote-id_945	Sp-id_52	Sp-id_89	Category-id_12	lexisMain-id_861	2021-09-27	2021-09-29
+relatedNote-id_944	Sp-id_89	Sp-id_42	Category-id_12	lexisMain-id_860	2021-09-27	2021-09-29
+relatedNote-id_945	Sp-id_89	Sp-id_42	Category-id_12	lexisMain-id_861	2021-09-27	2021-09-29
 relatedNote-id_946	Zoonosis-id_29		Category-id_1	lexisMain-id_862	2021-09-27	2021-09-29
 relatedNote-id_947	Zoonosis-id_29		Category-id_15	lexisMain-id_863	2021-09-27	2021-09-29
 relatedNote-id_948	Zoonosis-id_29		Category-id_15	lexisMain-id_864	2021-09-27	2021-09-29
@@ -994,19 +994,19 @@ relatedNote-id_999	Zoonosis-id_36		Category-id_17		2021-09-27	2021-09-29
 relatedNote-id_1000	Zoonosis-id_36		Category-id_18		2021-09-27	2021-09-29
 relatedNote-id_1001	Zoonosis-id_1		Category-id_12	lexisMain-id_901	2021-09-27	2021-09-29
 relatedNote-id_1002	Zoonosis-id_1		Category-id_12	lexisMain-id_848	2021-09-27	2021-09-29
-relatedNote-id_1003	Sp-id_52	Sp-id_16	Category-id_12	lexisMain-id_1109	2021-09-27	2021-09-29
-relatedNote-id_1004	Sp-id_52	Sp-id_16	Category-id_12	lexisMain-id_846	2021-09-27	2021-09-29
+relatedNote-id_1003	Sp-id_16	Sp-id_52	Category-id_12	lexisMain-id_1109	2021-09-27	2021-09-29
+relatedNote-id_1004	Sp-id_16	Sp-id_52	Category-id_12	lexisMain-id_846	2021-09-27	2021-09-29
 relatedNote-id_1005	Zoonosis-id_13		Category-id_1	lexisMain-id_902	2021-09-27	2021-09-29
 relatedNote-id_1006	Zoonosis-id_13		Category-id_15	lexisMain-id_903	2021-09-27	2021-09-29
 relatedNote-id_1007	Zoonosis-id_13		Category-id_15	lexisMain-id_904	2021-09-27	2021-09-29
 relatedNote-id_1008	Zoonosis-id_1		Category-id_12	lexisMain-id_905	2021-09-27	2021-09-29
 relatedNote-id_1009	Zoonosis-id_1		Category-id_12	lexisMain-id_848	2021-09-27	2021-09-29
-relatedNote-id_1010	Sp-id_52	Sp-id_16	Category-id_12	lexisMain-id_906	2021-09-27	2021-09-29
-relatedNote-id_1011	Sp-id_52	Sp-id_16	Category-id_12	lexisMain-id_1107	2021-09-27	2021-09-29
+relatedNote-id_1010	Sp-id_16	Sp-id_52	Category-id_12	lexisMain-id_906	2021-09-27	2021-09-29
+relatedNote-id_1011	Sp-id_16	Sp-id_52	Category-id_12	lexisMain-id_1107	2021-09-27	2021-09-29
 relatedNote-id_1012	Zoonosis-id_1		Category-id_12	lexisMain-id_907	2021-09-27	2021-09-29
 relatedNote-id_1013	Zoonosis-id_1		Category-id_12	lexisMain-id_848	2021-09-27	2021-09-29
-relatedNote-id_1014	Sp-id_52	Sp-id_16	Category-id_12	lexisMain-id_908	2021-09-27	2021-09-29
-relatedNote-id_1015	Sp-id_52	Sp-id_16	Category-id_12	lexisMain-id_1107	2021-09-27	2021-09-29
+relatedNote-id_1014	Sp-id_16	Sp-id_52	Category-id_12	lexisMain-id_908	2021-09-27	2021-09-29
+relatedNote-id_1015	Sp-id_16	Sp-id_52	Category-id_12	lexisMain-id_1107	2021-09-27	2021-09-29
 relatedNote-id_1016	Zoonosis-id_1		Category-id_12	lexisMain-id_909	2021-09-27	2021-09-29
 relatedNote-id_1017	Zoonosis-id_1		Category-id_12	lexisMain-id_910	2021-09-27	2021-09-29
 relatedNote-id_1018	Zoonosis-id_3		Category-id_1	lexisMain-id_911	2021-09-27	2021-09-29
@@ -1252,16 +1252,16 @@ relatedNote-id_1257	Sp-id_39	Sp-id_16	Category-id_12	lexisMain-id_1103	2021-09-2
 relatedNote-id_1258	Sp-id_40	Sp-id_16	Category-id_12	lexisMain-id_1104	2021-09-29	
 relatedNote-id_1259	Sp-id_41	Sp-id_16	Category-id_12	lexisMain-id_1105	2021-09-29	
 relatedNote-id_1260	Sp-id_9	Sp-id_16	Category-id_12	lexisMain-id_1106	2021-09-29	
-relatedNote-id_1261	Sp-id_52	Sp-id_88	Category-id_12	lexisMain-id_846	2021-09-29	
-relatedNote-id_1262	Sp-id_52	Sp-id_88	Category-id_12	lexisMain-id_1108	2021-09-29	
-relatedNote-id_1263	Sp-id_52	Sp-id_88	Category-id_12	lexisMain-id_1110	2021-09-29	
-relatedNote-id_1264	Sp-id_52	Sp-id_88	Category-id_12	lexisMain-id_1111	2021-09-29	
+relatedNote-id_1261	Sp-id_88	Sp-id_112	Category-id_12	lexisMain-id_846	2021-09-29	
+relatedNote-id_1262	Sp-id_88	Sp-id_112	Category-id_12	lexisMain-id_1108	2021-09-29	
+relatedNote-id_1263	Sp-id_88	Sp-id_112	Category-id_12	lexisMain-id_1110	2021-09-29	
+relatedNote-id_1264	Sp-id_88	Sp-id_112	Category-id_12	lexisMain-id_1111	2021-09-29	
 relatedNote-id_1265	Sp-id_9	Sp-id_88	Category-id_12	lexisMain-id_1112	2021-09-29	
 relatedNote-id_1266	Sp-id_9	Sp-id_88	Category-id_12	lexisMain-id_1113	2021-09-29	
 relatedNote-id_1267	Sp-id_40	Sp-id_16	Category-id_12	lexisMain-id_1114	2021-09-29	
 relatedNote-id_1268	Sp-id_40	Sp-id_16	Category-id_12	lexisMain-id_1115	2021-09-29	
-relatedNote-id_1269	Sp-id_52	Sp-id_89	Category-id_12	lexisMain-id_1116	2021-09-29	
-relatedNote-id_1270	Sp-id_52	Sp-id_89	Category-id_12	lexisMain-id_1117	2021-09-29	
+relatedNote-id_1269	Sp-id_89	Sp-id_42	Category-id_12	lexisMain-id_1116	2021-09-29	
+relatedNote-id_1270	Sp-id_89	Sp-id_42	Category-id_12	lexisMain-id_1117	2021-09-29	
 relatedNote-id_1271	Sp-id_90	Sp-id_16	Category-id_12	lexisMain-id_1118	2021-09-29	
 relatedNote-id_1272	Sp-id_56	Sp-id_16	Category-id_12	lexisMain-id_1119	2021-09-29	
 relatedNote-id_1273	Sp-id_91	Sp-id_16	Category-id_12	lexisMain-id_1120	2021-09-29	
@@ -1269,11 +1269,11 @@ relatedNote-id_1274	Sp-id_93	Sp-id_61	Category-id_12	lexisMain-id_1121	2021-09-2
 relatedNote-id_1275	Sp-id_94	Sp-id_61	Category-id_12	lexisMain-id_1122	2021-09-29	
 relatedNote-id_1276	Zoonosis-id_1		Category-id_12	lexisMain-id_1123	2021-10-13	
 relatedNote-id_1277	Sp-id_4	Sp-id_99	Category-id_12	lexisMain-id_1124	2021-10-13	
-relatedNote-id_1278	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1125	2021-10-13	
+relatedNote-id_1278	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1125	2021-10-13	
 relatedNote-id_1279	Sp-id_4	Sp-id_61	Category-id_12	lexisMain-id_1126	2021-10-13	
 relatedNote-id_1280	Zoonosis-id_1		Category-id_12	lexisMain-id_1127	2021-10-13	
 relatedNote-id_1281	Sp-id_4	Sp-id_99	Category-id_12	lexisMain-id_1128	2021-10-13	
-relatedNote-id_1282	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1129	2021-10-13	
+relatedNote-id_1282	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1129	2021-10-13	
 relatedNote-id_1283	Sp-id_4	Sp-id_61	Category-id_12	lexisMain-id_1130	2021-10-13	
 relatedNote-id_1284	Sp-id_85	Sp-id_61	Category-id_12	lexisMain-id_1131	2021-10-13	
 relatedNote-id_1285	Sp-id_101	Sp-id_61	Category-id_12	lexisMain-id_1132	2021-10-13	
@@ -1394,23 +1394,23 @@ relatedNote-id_1399	Sp-id_40	Sp-id_59	Category-id_14	lexisMain-id_1220	2021-10-1
 relatedNote-id_1400	Sp-id_40	Sp-id_59	Category-id_14	lexisMain-id_1221	2021-10-13	
 relatedNote-id_1401	Sp-id_40	Sp-id_59	Category-id_14	lexisMain-id_1222	2021-10-13	
 relatedNote-id_1402	Sp-id_40	Sp-id_59	Category-id_14	lexisMain-id_1223	2021-10-13	
-relatedNote-id_1403	Sp-id_52	Sp-id_100	Category-id_14	lexisMain-id_1224	2021-10-13	
-relatedNote-id_1404	Sp-id_52	Sp-id_100	Category-id_14	lexisMain-id_1225	2021-10-13	
-relatedNote-id_1405	Sp-id_52	Sp-id_100	Category-id_14	lexisMain-id_1226	2021-10-13	
-relatedNote-id_1406	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1227	2021-10-13	
-relatedNote-id_1407	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1228	2021-10-13	
-relatedNote-id_1408	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1229	2021-10-13	
-relatedNote-id_1409	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1227	2021-10-13	
-relatedNote-id_1410	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1228	2021-10-13	
-relatedNote-id_1411	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1229	2021-10-13	
-relatedNote-id_1412	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1230	2021-10-13	
-relatedNote-id_1413	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1231	2021-10-13	
-relatedNote-id_1414	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1232	2021-10-13	
-relatedNote-id_1415	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1233	2021-10-13	
-relatedNote-id_1416	Sp-id_52	Sp-id_100	Category-id_14	lexisMain-id_1234	2021-10-13	
-relatedNote-id_1417	Sp-id_52	Sp-id_100	Category-id_14	lexisMain-id_1235	2021-10-13	
-relatedNote-id_1418	Sp-id_52	Sp-id_100	Category-id_14	lexisMain-id_1236	2021-10-13	
-relatedNote-id_1419	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1237	2021-10-13	
+relatedNote-id_1403	Sp-id_100	Sp-id_52	Category-id_14	lexisMain-id_1224	2021-10-13	
+relatedNote-id_1404	Sp-id_100	Sp-id_52	Category-id_14	lexisMain-id_1225	2021-10-13	
+relatedNote-id_1405	Sp-id_100	Sp-id_52	Category-id_14	lexisMain-id_1226	2021-10-13	
+relatedNote-id_1406	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1227	2021-10-13	
+relatedNote-id_1407	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1228	2021-10-13	
+relatedNote-id_1408	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1229	2021-10-13	
+relatedNote-id_1409	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1227	2021-10-13	
+relatedNote-id_1410	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1228	2021-10-13	
+relatedNote-id_1411	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1229	2021-10-13	
+relatedNote-id_1412	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1230	2021-10-13	
+relatedNote-id_1413	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1231	2021-10-13	
+relatedNote-id_1414	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1232	2021-10-13	
+relatedNote-id_1415	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1233	2021-10-13	
+relatedNote-id_1416	Sp-id_100	Sp-id_52	Category-id_14	lexisMain-id_1234	2021-10-13	
+relatedNote-id_1417	Sp-id_100	Sp-id_52	Category-id_14	lexisMain-id_1235	2021-10-13	
+relatedNote-id_1418	Sp-id_100	Sp-id_52	Category-id_14	lexisMain-id_1236	2021-10-13	
+relatedNote-id_1419	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1237	2021-10-13	
 relatedNote-id_1420	Sp-id_4	Sp-id_61	Category-id_12	lexisMain-id_1192	2021-10-13	
 relatedNote-id_1421	Zoonosis-id_1		Category-id_12	lexisMain-id_1193	2021-10-13	
 relatedNote-id_1422	Sp-id_4	Sp-id_61	Category-id_12	lexisMain-id_1238	2021-10-13	
@@ -1449,12 +1449,12 @@ relatedNote-id_1454	Zoonosis-id_1		Category-id_12	lexisMain-id_1206	2021-10-13
 relatedNote-id_1455	Zoonosis-id_1		Category-id_12	lexisMain-id_1209	2021-10-13	
 relatedNote-id_1456	Zoonosis-id_1		Category-id_12	lexisMain-id_1254	2021-10-13	
 relatedNote-id_1457	Zoonosis-id_1		Category-id_14	lexisMain-id_1255	2021-10-13	
-relatedNote-id_1458	Sp-id_52	Sp-id_100	Category-id_14	lexisMain-id_1256	2021-10-13	
+relatedNote-id_1458	Sp-id_100	Sp-id_52	Category-id_14	lexisMain-id_1256	2021-10-13	
 relatedNote-id_1459	Zoonosis-id_1		Category-id_12	lexisMain-id_1254	2021-10-13	
-relatedNote-id_1460	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1257	2021-10-13	
+relatedNote-id_1460	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1257	2021-10-13	
 relatedNote-id_1461	Zoonosis-id_1		Category-id_14	lexisMain-id_1255	2021-10-13	
 relatedNote-id_1462	Zoonosis-id_1		Category-id_12	lexisMain-id_1254	2021-10-13	
-relatedNote-id_1463	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1257	2021-10-13	
+relatedNote-id_1463	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1257	2021-10-13	
 relatedNote-id_1464	Zoonosis-id_1		Category-id_12	lexisMain-id_1258	2021-10-13	
 relatedNote-id_1465	Zoonosis-id_1		Category-id_12	lexisMain-id_1259	2021-10-13	
 relatedNote-id_1466	Zoonosis-id_1		Category-id_12	lexisMain-id_1260	2021-10-13	
@@ -1466,25 +1466,25 @@ relatedNote-id_1471	Sp-id_104	Sp-id_61	Category-id_12	lexisMain-id_1263	2021-10-
 relatedNote-id_1472	Zoonosis-id_1		Category-id_14	lexisMain-id_1264	2021-10-13	
 relatedNote-id_1473	Sp-id_104	Sp-id_61	Category-id_14	lexisMain-id_1265	2021-10-13	
 relatedNote-id_1474	Sp-id_4	Sp-id_61	Category-id_12	lexisMain-id_1191	2021-10-13	
-relatedNote-id_1475	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1230	2021-10-13	
+relatedNote-id_1475	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1230	2021-10-13	
 relatedNote-id_1476	Sp-id_4	Sp-id_61	Category-id_12	lexisMain-id_1266	2021-10-13	
 relatedNote-id_1477	Sp-id_4	Sp-id_61	Category-id_12	lexisMain-id_1267	2021-10-13	
 relatedNote-id_1478	Sp-id_4	Sp-id_61	Category-id_12	lexisMain-id_1268	2021-10-13	
 relatedNote-id_1479	Sp-id_4	Sp-id_61	Category-id_12	lexisMain-id_1269	2021-10-13	
 relatedNote-id_1480	Zoonosis-id_1		Category-id_12	lexisMain-id_1254	2021-10-13	
-relatedNote-id_1481	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1257	2021-10-13	
+relatedNote-id_1481	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1257	2021-10-13	
 relatedNote-id_1482	Sp-id_4	Sp-id_61	Category-id_12	lexisMain-id_1266	2021-10-13	
 relatedNote-id_1483	Zoonosis-id_1		Category-id_12	lexisMain-id_1258	2021-10-13	
-relatedNote-id_1484	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1270	2021-10-13	
+relatedNote-id_1484	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1270	2021-10-13	
 relatedNote-id_1485	Sp-id_4	Sp-id_61	Category-id_12	lexisMain-id_1271	2021-10-13	
 relatedNote-id_1486	Zoonosis-id_1		Category-id_12	lexisMain-id_1259	2021-10-13	
-relatedNote-id_1487	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1272	2021-10-13	
+relatedNote-id_1487	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1272	2021-10-13	
 relatedNote-id_1488	Sp-id_4	Sp-id_61	Category-id_12	lexisMain-id_1267	2021-10-13	
 relatedNote-id_1489	Zoonosis-id_1		Category-id_12	lexisMain-id_1260	2021-10-13	
-relatedNote-id_1490	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1273	2021-10-13	
+relatedNote-id_1490	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1273	2021-10-13	
 relatedNote-id_1491	Sp-id_4	Sp-id_61	Category-id_12	lexisMain-id_1268	2021-10-13	
 relatedNote-id_1492	Zoonosis-id_1		Category-id_12	lexisMain-id_1261	2021-10-13	
-relatedNote-id_1493	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1274	2021-10-13	
+relatedNote-id_1493	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1274	2021-10-13	
 relatedNote-id_1494	Sp-id_105	Sp-id_105	Category-id_12	lexisMain-id_1275	2021-10-13	
 relatedNote-id_1495	Zoonosis-id_1		Category-id_7	lexisMain-id_1276	2021-10-13	
 relatedNote-id_1496	Sp-id_106	Sp-id_105	Category-id_12	lexisMain-id_1277	2021-10-13	
@@ -1583,7 +1583,7 @@ relatedNote-id_1588	Zoonosis-id_1		Category-id_14	lexisMain-id_1334	2021-10-13
 relatedNote-id_1589	Sp-id_112	Sp-id_112	Category-id_12	lexisMain-id_1335	2021-10-13	
 relatedNote-id_1590	Zoonosis-id_1		Category-id_14	lexisMain-id_1336	2021-10-13	
 relatedNote-id_1591	Sp-id_4	Sp-id_61	Category-id_14	lexisMain-id_1337	2021-10-13	
-relatedNote-id_1592	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1338	2021-10-13	
+relatedNote-id_1592	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1338	2021-10-13	
 relatedNote-id_1593	Zoonosis-id_1		Category-id_14	lexisMain-id_1339	2021-10-13	
 relatedNote-id_1594	Zoonosis-id_1		Category-id_14	lexisMain-id_1340	2021-10-13	
 relatedNote-id_1595	Zoonosis-id_1		Category-id_14	lexisMain-id_1341	2021-10-13	
@@ -1603,31 +1603,31 @@ relatedNote-id_1608	Sp-id_4	Sp-id_61	Category-id_14	lexisMain-id_1344	2021-10-13
 relatedNote-id_1609	Sp-id_4	Sp-id_61	Category-id_14	lexisMain-id_1345	2021-10-13	
 relatedNote-id_1610	Sp-id_4	Sp-id_61	Category-id_14	lexisMain-id_1346	2021-10-13	
 relatedNote-id_1611	Sp-id_113	Sp-id_59	Category-id_12	lexisMain-id_1352	2021-10-13	
-relatedNote-id_1612	Sp-id_52	Sp-id_100	Category-id_14	lexisMain-id_1355	2021-10-13	
+relatedNote-id_1612	Sp-id_100	Sp-id_52	Category-id_14	lexisMain-id_1355	2021-10-13	
 relatedNote-id_1613	Zoonosis-id_1		Category-id_14	lexisMain-id_1353	2021-10-13	
 relatedNote-id_1614	Zoonosis-id_1		Category-id_14	lexisMain-id_1354	2021-10-13	
-relatedNote-id_1615	Sp-id_52	Sp-id_100	Category-id_14	lexisMain-id_1356	2021-10-13	
-relatedNote-id_1616	Sp-id_52	Sp-id_100	Category-id_14	lexisMain-id_1357	2021-10-13	
+relatedNote-id_1615	Sp-id_100	Sp-id_52	Category-id_14	lexisMain-id_1356	2021-10-13	
+relatedNote-id_1616	Sp-id_100	Sp-id_52	Category-id_14	lexisMain-id_1357	2021-10-13	
 relatedNote-id_1617	Sp-id_113	Sp-id_59	Category-id_12	lexisMain-id_1358	2021-10-13	
 relatedNote-id_1618	Sp-id_113	Sp-id_59	Category-id_12	lexisMain-id_1359	2021-10-13	
 relatedNote-id_1619	Sp-id_113	Sp-id_59	Category-id_12	lexisMain-id_1360	2021-10-13	
-relatedNote-id_1620	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1361	2021-10-13	
-relatedNote-id_1621	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1362	2021-10-13	
-relatedNote-id_1622	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1363	2021-10-13	
+relatedNote-id_1620	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1361	2021-10-13	
+relatedNote-id_1621	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1362	2021-10-13	
+relatedNote-id_1622	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1363	2021-10-13	
 relatedNote-id_1623	Sp-id_113	Sp-id_59	Category-id_12	lexisMain-id_1364	2021-10-13	
 relatedNote-id_1624	Sp-id_113	Sp-id_59	Category-id_12	lexisMain-id_1365	2021-10-13	
-relatedNote-id_1625	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1366	2021-10-13	
-relatedNote-id_1626	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1367	2021-10-13	
+relatedNote-id_1625	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1366	2021-10-13	
+relatedNote-id_1626	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1367	2021-10-13	
 relatedNote-id_1627	Sp-id_113	Sp-id_59	Category-id_12	lexisMain-id_1368	2021-10-13	
-relatedNote-id_1628	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1369	2021-10-13	
+relatedNote-id_1628	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1369	2021-10-13	
 relatedNote-id_1629	Sp-id_113	Sp-id_59	Category-id_12	lexisMain-id_1370	2021-10-13	
-relatedNote-id_1630	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1371	2021-10-13	
+relatedNote-id_1630	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1371	2021-10-13	
 relatedNote-id_1631	Sp-id_113	Sp-id_59	Category-id_12	lexisMain-id_1364	2021-10-13	
 relatedNote-id_1632	Sp-id_113	Sp-id_59	Category-id_12	lexisMain-id_1365	2021-10-13	
 relatedNote-id_1633	Sp-id_113	Sp-id_59	Category-id_12	lexisMain-id_1370	2021-10-13	
-relatedNote-id_1634	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1366	2021-10-13	
-relatedNote-id_1635	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1367	2021-10-13	
-relatedNote-id_1636	Sp-id_52	Sp-id_100	Category-id_12	lexisMain-id_1371	2021-10-13	
+relatedNote-id_1634	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1366	2021-10-13	
+relatedNote-id_1635	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1367	2021-10-13	
+relatedNote-id_1636	Sp-id_100	Sp-id_52	Category-id_12	lexisMain-id_1371	2021-10-13	
 relatedNote-id_1637	Sp-id_40	Sp-id_59	Category-id_14	lexisMain-id_1372	2021-10-13	
 relatedNote-id_1638	Sp-id_40	Sp-id_59	Category-id_14	lexisMain-id_1373	2021-10-13	
 relatedNote-id_1639	Sp-id_40	Sp-id_59	Category-id_14	lexisMain-id_1374	2021-10-13	
@@ -1803,52 +1803,52 @@ relatedNote-id_1808	Sp-id_2	Sp-id_63	Category-id_12	lexisMain-id_1524	2021-11-05
 relatedNote-id_1809	Sp-id_2	Sp-id_63	Category-id_12	lexisMain-id_1525	2021-11-05	
 relatedNote-id_1810	Sp-id_2	Sp-id_63	Category-id_12	lexisMain-id_1526	2021-11-05	
 relatedNote-id_1811	Sp-id_2	Sp-id_63	Category-id_12	lexisMain-id_1527	2021-11-05	
-relatedNote-id_1812	Zoonosis-id_43		Category-id_12	lexisMain-id_1528	2021-11-05	
-relatedNote-id_1813	Zoonosis-id_43		Category-id_12	lexisMain-id_1529	2021-11-05	
-relatedNote-id_1814	Zoonosis-id_43		Category-id_12	lexisMain-id_1528	2021-11-05	
-relatedNote-id_1815	Zoonosis-id_43		Category-id_12	lexisMain-id_1530	2021-11-05	
-relatedNote-id_1816	Zoonosis-id_43		Category-id_12	lexisMain-id_1528	2021-11-05	
-relatedNote-id_1817	Zoonosis-id_43		Category-id_12	lexisMain-id_1531	2021-11-05	
-relatedNote-id_1818	Zoonosis-id_43		Category-id_12	lexisMain-id_1528	2021-11-05	
-relatedNote-id_1819	Zoonosis-id_43		Category-id_12	lexisMain-id_1532	2021-11-05	
-relatedNote-id_1820	Zoonosis-id_43		Category-id_12	lexisMain-id_1533	2021-11-05	
-relatedNote-id_1821	Zoonosis-id_43		Category-id_12	lexisMain-id_1534	2021-11-05	
-relatedNote-id_1822	Zoonosis-id_43		Category-id_12	lexisMain-id_1535	2021-11-05	
+relatedNote-id_1812	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1528	2021-11-05	
+relatedNote-id_1813	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1529	2021-11-05	
+relatedNote-id_1814	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1528	2021-11-05	
+relatedNote-id_1815	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1530	2021-11-05	
+relatedNote-id_1816	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1528	2021-11-05	
+relatedNote-id_1817	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1531	2021-11-05	
+relatedNote-id_1818	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1528	2021-11-05	
+relatedNote-id_1819	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1532	2021-11-05	
+relatedNote-id_1820	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1533	2021-11-05	
+relatedNote-id_1821	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1534	2021-11-05	
+relatedNote-id_1822	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1535	2021-11-05	
 relatedNote-id_1823	Sp-id_2	Sp-id_63	Category-id_12	lexisMain-id_1536	2021-11-05	
 relatedNote-id_1824	Sp-id_2	Sp-id_63	Category-id_12	lexisMain-id_1536	2021-11-05	
-relatedNote-id_1825	Zoonosis-id_43		Category-id_10	lexisMain-id_1537	2021-11-05	
-relatedNote-id_1826	Zoonosis-id_43		Category-id_12	lexisMain-id_1538	2021-11-05	
-relatedNote-id_1827	Zoonosis-id_43		Category-id_12	lexisMain-id_1539	2021-11-05	
-relatedNote-id_1828	Zoonosis-id_43		Category-id_12	lexisMain-id_1540	2021-11-05	
+relatedNote-id_1825	Zoonosis-id_43	Zoonosis-id_44	Category-id_10	lexisMain-id_1537	2021-11-05	
+relatedNote-id_1826	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1538	2021-11-05	
+relatedNote-id_1827	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1539	2021-11-05	
+relatedNote-id_1828	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1540	2021-11-05	
 relatedNote-id_1829	Sp-id_2	Sp-id_63	Category-id_12	lexisMain-id_1541	2021-11-05	
 relatedNote-id_1830	Sp-id_2	Sp-id_63	Category-id_12	lexisMain-id_1542	2021-11-05	
 relatedNote-id_1831	Sp-id_2	Sp-id_63	Category-id_12	lexisMain-id_1543	2021-11-05	
-relatedNote-id_1832	Zoonosis-id_43		Category-id_12	lexisMain-id_1538	2021-11-05	
-relatedNote-id_1833	Zoonosis-id_43		Category-id_12	lexisMain-id_1539	2021-11-05	
-relatedNote-id_1834	Zoonosis-id_43		Category-id_12	lexisMain-id_1540	2021-11-05	
+relatedNote-id_1832	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1538	2021-11-05	
+relatedNote-id_1833	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1539	2021-11-05	
+relatedNote-id_1834	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1540	2021-11-05	
 relatedNote-id_1835	Sp-id_2	Sp-id_63	Category-id_12	lexisMain-id_1541	2021-11-05	
 relatedNote-id_1836	Sp-id_2	Sp-id_63	Category-id_12	lexisMain-id_1542	2021-11-05	
 relatedNote-id_1837	Sp-id_2	Sp-id_63	Category-id_12	lexisMain-id_1543	2021-11-05	
-relatedNote-id_1838	Zoonosis-id_43		Category-id_12	lexisMain-id_1538	2021-11-05	
-relatedNote-id_1839	Zoonosis-id_43		Category-id_12	lexisMain-id_1544	2021-11-05	
+relatedNote-id_1838	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1538	2021-11-05	
+relatedNote-id_1839	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1544	2021-11-05	
 relatedNote-id_1840	Sp-id_2	Sp-id_63	Category-id_12	lexisMain-id_1541	2021-11-05	
 relatedNote-id_1841	Sp-id_2	Sp-id_63	Category-id_12	lexisMain-id_1545	2021-11-05	
-relatedNote-id_1842	Zoonosis-id_43		Category-id_12	lexisMain-id_1538	2021-11-05	
-relatedNote-id_1843	Zoonosis-id_43		Category-id_12	lexisMain-id_1546	2021-11-05	
+relatedNote-id_1842	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1538	2021-11-05	
+relatedNote-id_1843	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1546	2021-11-05	
 relatedNote-id_1844	Sp-id_2	Sp-id_63	Category-id_12	lexisMain-id_1541	2021-11-05	
 relatedNote-id_1845	Sp-id_2	Sp-id_63	Category-id_12	lexisMain-id_1547	2021-11-05	
-relatedNote-id_1846	Zoonosis-id_43		Category-id_12	lexisMain-id_1538	2021-11-05	
-relatedNote-id_1847	Zoonosis-id_43		Category-id_12	lexisMain-id_1548	2021-11-05	
+relatedNote-id_1846	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1538	2021-11-05	
+relatedNote-id_1847	Zoonosis-id_43	Zoonosis-id_44	Category-id_12	lexisMain-id_1548	2021-11-05	
 relatedNote-id_1848	Sp-id_2	Sp-id_63	Category-id_12	lexisMain-id_1541	2021-11-05	
 relatedNote-id_1849	Sp-id_2	Sp-id_63	Category-id_12	lexisMain-id_1549	2021-11-05	
-relatedNote-id_1850	Zoonosis-id_43		Category-id_14	lexisMain-id_1550	2021-11-05	
-relatedNote-id_1851	Zoonosis-id_43		Category-id_14	lexisMain-id_1551	2021-11-05	
-relatedNote-id_1852	Zoonosis-id_43		Category-id_14	lexisMain-id_1552	2021-11-05	
-relatedNote-id_1853	Zoonosis-id_43		Category-id_14	lexisMain-id_1553	2021-11-05	
-relatedNote-id_1854	Zoonosis-id_43		Category-id_14	lexisMain-id_1554	2021-11-05	
-relatedNote-id_1855	Zoonosis-id_43		Category-id_14	lexisMain-id_1560	2021-11-05	
-relatedNote-id_1856	Zoonosis-id_43		Category-id_14	lexisMain-id_1561	2021-11-05	
-relatedNote-id_1857	Zoonosis-id_43		Category-id_14	lexisMain-id_1562	2021-11-05	
+relatedNote-id_1850	Zoonosis-id_43	Zoonosis-id_44	Category-id_14	lexisMain-id_1550	2021-11-05	
+relatedNote-id_1851	Zoonosis-id_43	Zoonosis-id_44	Category-id_14	lexisMain-id_1551	2021-11-05	
+relatedNote-id_1852	Zoonosis-id_43	Zoonosis-id_44	Category-id_14	lexisMain-id_1552	2021-11-05	
+relatedNote-id_1853	Zoonosis-id_43	Zoonosis-id_44	Category-id_14	lexisMain-id_1553	2021-11-05	
+relatedNote-id_1854	Zoonosis-id_43	Zoonosis-id_44	Category-id_14	lexisMain-id_1554	2021-11-05	
+relatedNote-id_1855	Zoonosis-id_43	Zoonosis-id_44	Category-id_14	lexisMain-id_1560	2021-11-05	
+relatedNote-id_1856	Zoonosis-id_43	Zoonosis-id_44	Category-id_14	lexisMain-id_1561	2021-11-05	
+relatedNote-id_1857	Zoonosis-id_43	Zoonosis-id_44	Category-id_14	lexisMain-id_1562	2021-11-05	
 relatedNote-id_1858	Sp-id_2	Sp-id_63	Category-id_14	lexisMain-id_1555	2021-11-05	
 relatedNote-id_1859	Sp-id_2	Sp-id_63	Category-id_14	lexisMain-id_1556	2021-11-05	
 relatedNote-id_1860	Sp-id_2	Sp-id_63	Category-id_14	lexisMain-id_1557	2021-11-05	
@@ -1857,3 +1857,84 @@ relatedNote-id_1862	Sp-id_2	Sp-id_63	Category-id_14	lexisMain-id_1559	2021-11-05
 relatedNote-id_1863	Sp-id_2	Sp-id_63	Category-id_14	lexisMain-id_1563	2021-11-05	
 relatedNote-id_1864	Sp-id_2	Sp-id_63	Category-id_14	lexisMain-id_1564	2021-11-05	
 relatedNote-id_1865	Sp-id_2	Sp-id_63	Category-id_14	lexisMain-id_1565	2021-11-05	
+relatedNote-id_1866	Zoonosis-id_3		Category-id_7	lexisMain-id_1566	2021-11-10	
+relatedNote-id_1867	Zoonosis-id_3		Category-id_12	lexisMain-id_1567	2021-11-10	
+relatedNote-id_1868	Sp-id_56	Sp-id_56	Category-id_12	lexisMain-id_1568	2021-11-10	
+relatedNote-id_1869	Zoonosis-id_3		Category-id_12	lexisMain-id_1569	2021-11-10	
+relatedNote-id_1870	Zoonosis-id_3		Category-id_12	lexisMain-id_1570	2021-11-10	
+relatedNote-id_1871	Sp-id_56	Sp-id_56	Category-id_12	lexisMain-id_1571	2021-11-10	
+relatedNote-id_1872	Sp-id_56	Sp-id_56	Category-id_12	lexisMain-id_1572	2021-11-10	
+relatedNote-id_1873	Zoonosis-id_3		Category-id_12	lexisMain-id_1569	2021-11-10	
+relatedNote-id_1874	Zoonosis-id_3		Category-id_12	lexisMain-id_1570	2021-11-10	
+relatedNote-id_1875	Zoonosis-id_3		Category-id_12	lexisMain-id_1573	2021-11-10	
+relatedNote-id_1876	Zoonosis-id_3		Category-id_12	lexisMain-id_1569	2021-11-10	
+relatedNote-id_1877	Zoonosis-id_3		Category-id_12	lexisMain-id_1570	2021-11-10	
+relatedNote-id_1878	Zoonosis-id_3		Category-id_12	lexisMain-id_1573	2021-11-10	
+relatedNote-id_1879	Zoonosis-id_3		Category-id_12	lexisMain-id_1574	2021-11-10	
+relatedNote-id_1880	Zoonosis-id_3		Category-id_12	lexisMain-id_1575	2021-11-10	
+relatedNote-id_1881	Zoonosis-id_3		Category-id_12	lexisMain-id_1576	2021-11-10	
+relatedNote-id_1882	Zoonosis-id_3		Category-id_12	lexisMain-id_1576	2021-11-10	
+relatedNote-id_1883	Zoonosis-id_3		Category-id_12	lexisMain-id_1576	2021-11-10	
+relatedNote-id_1884	Zoonosis-id_3		Category-id_12	lexisMain-id_1570	2021-11-10	
+relatedNote-id_1885	Zoonosis-id_3		Category-id_12	lexisMain-id_1573	2021-11-10	
+relatedNote-id_1886	Zoonosis-id_3		Category-id_12	lexisMain-id_1574	2021-11-10	
+relatedNote-id_1887	Zoonosis-id_3		Category-id_12	lexisMain-id_1575	2021-11-10	
+relatedNote-id_1888	Zoonosis-id_3		Category-id_12	lexisMain-id_1576	2021-11-10	
+relatedNote-id_1889	Zoonosis-id_3		Category-id_12	lexisMain-id_1576	2021-11-10	
+relatedNote-id_1890	Zoonosis-id_3		Category-id_12	lexisMain-id_1577	2021-11-10	
+relatedNote-id_1891	Zoonosis-id_3		Category-id_14	lexisMain-id_1578	2021-11-10	
+relatedNote-id_1892	Zoonosis-id_3		Category-id_14	lexisMain-id_1579	2021-11-10	
+relatedNote-id_1893	Zoonosis-id_1		Category-id_12	lexisMain-id_1580	2021-11-10	
+relatedNote-id_1894	Zoonosis-id_46		Category-id_12	lexisMain-id_1581	2021-11-10	
+relatedNote-id_1895	Zoonosis-id_1		Category-id_12	lexisMain-id_1582	2021-11-10	
+relatedNote-id_1896	Zoonosis-id_46		Category-id_12	lexisMain-id_1583	2021-11-10	
+relatedNote-id_1897	Zoonosis-id_1		Category-id_11	lexisMain-id_1584	2021-11-10	
+relatedNote-id_1898	Zoonosis-id_46		Category-id_11	lexisMain-id_1585	2021-11-10	
+relatedNote-id_1899	Zoonosis-id_1		Category-id_11	lexisMain-id_1586	2021-11-10	
+relatedNote-id_1900	Zoonosis-id_46		Category-id_11	lexisMain-id_1587	2021-11-10	
+relatedNote-id_1901	Zoonosis-id_1		Category-id_11	lexisMain-id_1584	2021-11-10	
+relatedNote-id_1902	Zoonosis-id_46		Category-id_11	lexisMain-id_1585	2021-11-10	
+relatedNote-id_1903	Zoonosis-id_1		Category-id_11	lexisMain-id_1588	2021-11-10	
+relatedNote-id_1904	Zoonosis-id_46		Category-id_11	lexisMain-id_1589	2021-11-10	
+relatedNote-id_1905	Zoonosis-id_1		Category-id_11	lexisMain-id_1590	2021-11-10	
+relatedNote-id_1906	Zoonosis-id_46		Category-id_11	lexisMain-id_1591	2021-11-10	
+relatedNote-id_1907	Zoonosis-id_1		Category-id_11	lexisMain-id_1592	2021-11-10	
+relatedNote-id_1908	Zoonosis-id_46		Category-id_11	lexisMain-id_1593	2021-11-10	
+relatedNote-id_1909	Zoonosis-id_1		Category-id_11	lexisMain-id_1594	2021-11-10	
+relatedNote-id_1910	Zoonosis-id_46		Category-id_11	lexisMain-id_1595	2021-11-10	
+relatedNote-id_1911	Zoonosis-id_1		Category-id_11	lexisMain-id_1596	2021-11-10	
+relatedNote-id_1912	Zoonosis-id_46		Category-id_11	lexisMain-id_1597	2021-11-10	
+relatedNote-id_1913	Zoonosis-id_1		Category-id_11	lexisMain-id_1598	2021-11-10	
+relatedNote-id_1914	Zoonosis-id_46		Category-id_11	lexisMain-id_1599	2021-11-10	
+relatedNote-id_1915	Zoonosis-id_1		Category-id_11	lexisMain-id_1598	2021-11-10	
+relatedNote-id_1916	Zoonosis-id_46		Category-id_11	lexisMain-id_1599	2021-11-10	
+relatedNote-id_1917	Zoonosis-id_1		Category-id_12	lexisMain-id_1580	2021-11-10	
+relatedNote-id_1918	Zoonosis-id_46		Category-id_12	lexisMain-id_1581	2021-11-10	
+relatedNote-id_1919	Zoonosis-id_1		Category-id_12	lexisMain-id_1582	2021-11-10	
+relatedNote-id_1920	Zoonosis-id_46		Category-id_12	lexisMain-id_1583	2021-11-10	
+relatedNote-id_1921	Zoonosis-id_1		Category-id_12	lexisMain-id_1600	2021-11-10	
+relatedNote-id_1922	Zoonosis-id_46		Category-id_12	lexisMain-id_1601	2021-11-10	
+relatedNote-id_1923	Zoonosis-id_1		Category-id_12	lexisMain-id_1602	2021-11-10	
+relatedNote-id_1924	Zoonosis-id_46		Category-id_12	lexisMain-id_1603	2021-11-10	
+relatedNote-id_1925	Zoonosis-id_1		Category-id_12	lexisMain-id_1604	2021-11-10	
+relatedNote-id_1926	Zoonosis-id_46		Category-id_12	lexisMain-id_1605	2021-11-10	
+relatedNote-id_1927	Zoonosis-id_1		Category-id_12	lexisMain-id_1606	2021-11-10	
+relatedNote-id_1928	Zoonosis-id_46		Category-id_12	lexisMain-id_1607	2021-11-10	
+relatedNote-id_1929	Zoonosis-id_1		Category-id_12	lexisMain-id_1608	2021-11-10	
+relatedNote-id_1930	Zoonosis-id_46		Category-id_12	lexisMain-id_1609	2021-11-10	
+relatedNote-id_1931	Zoonosis-id_1		Category-id_14	lexisMain-id_1610	2021-11-10	
+relatedNote-id_1932	Zoonosis-id_46		Category-id_14	lexisMain-id_1611	2021-11-10	
+relatedNote-id_1933	Zoonosis-id_1		Category-id_14	lexisMain-id_1612	2021-11-10	
+relatedNote-id_1934	Zoonosis-id_46		Category-id_14	lexisMain-id_1613	2021-11-10	
+relatedNote-id_1935	Zoonosis-id_1		Category-id_14	lexisMain-id_1614	2021-11-10	
+relatedNote-id_1936	Zoonosis-id_46		Category-id_14	lexisMain-id_1615	2021-11-10	
+relatedNote-id_1937	Zoonosis-id_1		Category-id_14	lexisMain-id_1616	2021-11-10	
+relatedNote-id_1938	Zoonosis-id_46		Category-id_14	lexisMain-id_1617	2021-11-10	
+relatedNote-id_1939	Zoonosis-id_1		Category-id_14	lexisMain-id_1618	2021-11-10	
+relatedNote-id_1940	Zoonosis-id_46		Category-id_14	lexisMain-id_1619	2021-11-10	
+relatedNote-id_1941	Zoonosis-id_1		Category-id_14	lexisMain-id_1620	2021-11-10	
+relatedNote-id_1942	Zoonosis-id_46		Category-id_14	lexisMain-id_1621	2021-11-10	
+relatedNote-id_1943	Zoonosis-id_1		Category-id_14	lexisMain-id_1622	2021-11-10	
+relatedNote-id_1944	Zoonosis-id_46		Category-id_14	lexisMain-id_1623	2021-11-10	
+relatedNote-id_1945	Zoonosis-id_1		Category-id_14	lexisMain-id_1624	2021-11-10	
+relatedNote-id_1946	Zoonosis-id_46		Category-id_14	lexisMain-id_1625	2021-11-10	

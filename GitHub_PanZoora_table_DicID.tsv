@@ -424,7 +424,7 @@ Dic-id_424	2021			2021-08-23
 Dic-id_425	vaccine candidates	MESH:D000086663		2021-08-23	
 Dic-id_426	around 95			2021-08-23	
 Dic-id_427	clinical efficacy	MESH:D016896		2021-08-23	
-Dic-id_428	emergency			2021-08-23	
+Dic-id_428	emergency	MESH:D004630		2021-08-23	2021-11-10
 Dic-id_429	use			2021-08-23	
 Dic-id_430	different countries			2021-08-23	
 Dic-id_431	US FDA	MESH:D014486		2021-08-23	
@@ -549,11 +549,11 @@ Dic-id_549	early age			2021-08-24
 Dic-id_550	group	Tax:9606		2021-08-24	
 Dic-id_551	significant			2021-08-24	
 Dic-id_552	proportion			2021-08-24	
-Dic-id_553	similar data			2021-08-24	
+Dic-id_553	data			2021-08-24	2021-11-10
 Dic-id_554	other countries			2021-08-24	
 Dic-id_555	population	Tax:9606		2021-08-24	
 Dic-id_556	more			2021-08-24	
-Dic-id_557	nearly three-fourth			2021-08-24	
+Dic-id_557	nearly three			2021-08-24	
 Dic-id_558	young age			2021-08-24	
 Dic-id_559	diagnosis			2021-08-24	
 Dic-id_560	Infectivity		MESH:D012327	2021-08-24	
@@ -2645,3 +2645,137 @@ Dic-id_2646	long-term			2021-11-05
 Dic-id_2647	RA management	MESH:D019468	MESH:D001172	2021-11-05	
 Dic-id_2648	integrative			2021-11-05	
 Dic-id_2649	treatment strategy			2021-11-05	
+Dic-id_2650	different			2021-11-10	
+Dic-id_2651	NCBI database			2021-11-10	
+Dic-id_2652	these	Tax:2697049		2021-11-10	
+Dic-id_2653	isolates	Tax:2697049		2021-11-10	
+Dic-id_2654	isolate	Tax:2697049		2021-11-10	
+Dic-id_2655	Leucine	MESH:D007930		2021-11-10	
+Dic-id_2656	nonpolar			2021-11-10	
+Dic-id_2657	polar			2021-11-10	
+Dic-id_2658	affect			2021-11-10	
+Dic-id_2659	conformation			2021-11-10	
+Dic-id_2660	peptides	MESH:D010455		2021-11-10	
+Dic-id_2661	isolate			2021-11-10	
+Dic-id_2662	this virus	Tax:2697049		2021-11-10	
+Dic-id_2663	threat			2021-11-10	
+Dic-id_2664	proteins			2021-11-10	
+Dic-id_2665	adapted	MESH:D000086967		2021-11-10	
+Dic-id_2666	replicate		MESH:D050296	2021-11-10	
+Dic-id_2667	disease	MESH:D019142		2021-11-10	
+Dic-id_2668	33			2021-11-10	
+Dic-id_2669	adaptation	MESH:D000086967		2021-11-10	
+Dic-id_2670	GP	MESH:C110614		2021-11-10	
+Dic-id_2671	NP	MESH:C113190		2021-11-10	
+Dic-id_2672	L		Zaire ebolavirus	2021-11-10	
+Dic-id_2673	L		Gene:911824	2021-11-10	
+Dic-id_2674	VP24	MESH:C446938		2021-11-10	
+Dic-id_2675	VP35	MESH:C084818		2021-11-10	
+Dic-id_2676	consistently			2021-11-10	
+Dic-id_2677	mutated	MESH:D009154		2021-11-10	
+Dic-id_2678	rodent	Tax:9989		2021-11-10	
+Dic-id_2679	Ebola virus strains	Tax:186536		2021-11-10	
+Dic-id_2680	adapted	MESH:D000086967		2021-11-10	
+Dic-id_2681	Fewer than five			2021-11-10	
+Dic-id_2682	these genes	MESH:C113190		2021-11-10	
+Dic-id_2683	these genes	MESH:C110614		2021-11-10	
+Dic-id_2684	these genes	MESH:C446938		2021-11-10	
+Dic-id_2685	new			2021-11-10	
+Dic-id_2686	protein	MESH:C446938		2021-11-10	
+Dic-id_2687	karyopherin α5			2021-11-10	
+Dic-id_2688	karyopherins			2021-11-10	
+Dic-id_2689	interferon response		MESH:D007372	2021-11-10	
+Dic-id_2690	Three further			2021-11-10	
+Dic-id_2691	change			2021-11-10	
+Dic-id_2692	hydrogen bonding	MESH:D006860		2021-11-10	
+Dic-id_2693	conformational			2021-11-10	
+Dic-id_2694	changes			2021-11-10	
+Dic-id_2695	few			2021-11-10	
+Dic-id_2696	crucial			2021-11-10	
+Dic-id_2697	Reston virus	Tax:186539		2021-11-10	
+Dic-id_2698	Ebolavirus species	Tax:186536		2021-11-10	
+Dic-id_2699	circulates			2021-11-10	
+Dic-id_2700	similar	Tax:9606		2021-11-10	
+Dic-id_2701	similar			2021-11-10	
+Dic-id_2702	-			2021-11-10	
+Dic-id_2703	fourth			2021-11-10	
+Dic-id_2704	health care facility	MESH:D006268		2021-11-10	
+Dic-id_2705	cholera	MESH:D002771		2021-11-10	
+Dic-id_2706	treatment center		MESH:D006268	2021-11-10	
+Dic-id_2707	results in the production			2021-11-10	
+Dic-id_2708	wastewaters	MESH:D062065		2021-11-10	
+Dic-id_2709	onward			2021-11-10	
+Dic-id_2710	transmission of the disease	MESH:D018562		2021-11-10	
+Dic-id_2711	treatment system			2021-11-10	
+Dic-id_2712	Médecins Sans Frontières			2021-11-10	
+Dic-id_2713	Haiti	MESH:D006205		2021-11-10	
+Dic-id_2714	disinfect	MESH:D004203		2021-11-10	
+Dic-id_2715	CTC (Centre de traitement contre le choléra)		MESH:D002771	2021-11-10	
+Dic-id_2716	CTC (Centre de traitement contre le choléra)		MESH:D006268	2021-11-10	
+Dic-id_2717	in situ			2021-11-10	
+Dic-id_2718	eliminating			2021-11-10	
+Dic-id_2719	road			2021-11-10	
+Dic-id_2720	haulage			2021-11-10	
+Dic-id_2721	waste	MESH:D062065		2021-11-10	
+Dic-id_2722	poorly			2021-11-10	
+Dic-id_2723	managed			2021-11-10	
+Dic-id_2724	hazardous waste facility			2021-11-10	
+Dic-id_2725	barrier			2021-11-10	
+Dic-id_2726	simple			2021-11-10	
+Dic-id_2727	sanitary intervention		MESH:D004323	2021-11-10	
+Dic-id_2728	physico-chemical		MESH:D002627	2021-11-10	
+Dic-id_2729	protocols			2021-11-10	
+Dic-id_2730	over 600			2021-11-10	
+Dic-id_2731	m3			2021-11-10	
+Dic-id_2732	wastewater	MESH:D062065		2021-11-10	
+Dic-id_2733	coagulation		MESH:D005427	2021-11-10	
+Dic-id_2734	flocculation	MESH:D005427		2021-11-10	
+Dic-id_2735	disinfection	MESH:D004203		2021-11-10	
+Dic-id_2736	pH			2021-11-10	
+Dic-id_2737	thermotolerant	MESH:D000071436		2021-11-10	
+Dic-id_2738	coliforms	Tax:561		2021-11-10	
+Dic-id_2739	hydrated lime (calcium hydroxide)	MESH:D002126		2021-11-10	
+Dic-id_2740	suspended solids			2021-11-10	
+Dic-id_2741	hydrochloric acid	MESH:D006851		2021-11-10	
+Dic-id_2742	neutralization			2021-11-10	
+Dic-id_2743	aluminum sulfate	MESH:C041524		2021-11-10	
+Dic-id_2744	Removal			2021-11-10	
+Dic-id_2745	rates			2021-11-10	
+Dic-id_2746	COD (Chemical Oxygen Demand)	MESH:D057919		2021-11-10	
+Dic-id_2747	>99			2021-11-10	
+Dic-id_2748	>90			2021-11-10	
+Dic-id_2749	turbidity			2021-11-10	
+Dic-id_2750	>99.9			2021-11-10	
+Dic-id_2751	analysis	MESH:D003365		2021-11-10	
+Dic-id_2752	costs	MESH:D003365		2021-11-10	
+Dic-id_2753	saving	MESH:D017046		2021-11-10	
+Dic-id_2754	reagent	MESH:D007202		2021-11-10	
+Dic-id_2755	costs	MESH:D017046		2021-11-10	
+Dic-id_2756	super-chlorination			2021-11-10	
+Dic-id_2757	The proposed approach			2021-11-10	
+Dic-id_2758	sanitation	MESH:D012499		2021-11-10	
+Dic-id_2759	treatment centers		MESH:D006268	2021-11-10	
+Dic-id_2760	other disease		MESH:D003141	2021-11-10	
+Dic-id_2761	UN			2021-11-10	
+Dic-id_2762	call			2021-11-10	
+Dic-id_2763	onsite			2021-11-10	
+Dic-id_2764	such emergencies	MESH:D004630		2021-11-10	
+Dic-id_2765	Coalition for Cholera Prevention and Control			2021-11-10	
+Dic-id_2766	highlighted			2021-11-10	
+Dic-id_2767	the method			2021-11-10	
+Dic-id_2768	other emergency	MESH:D004630		2021-11-10	
+Dic-id_2769	authors	Tax:9606		2021-11-10	
+Dic-id_2770	authors	MESH:D012108		2021-11-10	
+Dic-id_2771	discussion			2021-11-10	
+Dic-id_2772	ongoing			2021-11-10	
+Dic-id_2773	Oxfam			2021-11-10	
+Dic-id_2774	excreta		MESH:D014556	2021-11-10	
+Dic-id_2775	disease		MESH:D003141	2021-11-10	
+Dic-id_2776	Myanmar	MESH:D002052		2021-11-10	
+Dic-id_2777	post			2021-11-10	
+Dic-id_2778	disaster	MESH:D004190		2021-11-10	
+Dic-id_2779	incremental			2021-11-10	
+Dic-id_2780	improvements	MESH:D058996		2021-11-10	
+Dic-id_2781	local	MESH:D002052		2021-11-10	
+Dic-id_2782	local	MESH:D010679		2021-11-10	
+Dic-id_2783	NGO	MESH:D009938		2021-11-10	

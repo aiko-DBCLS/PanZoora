@@ -116,7 +116,7 @@ Sp-id_117	ユビナガコウモリの1種	Miniopterus australis	2021-10-22
 Sp-id_118	コイヌガオフルーツコウモリ	Cynopterus brachyotis	2021-10-22	
 Sp-id_119	オヒキコウモリの1種	Chaerephon plicata	2021-10-22	
 Sp-id_120	フィリピンオオコウモリ	Acerodon jubatus	2021-10-22	
-Zoonosis-id_1	人獣共通感染症	Zoonoses	2021-08-21	
+Zoonosis-id_1	人獣共通感染症	zoonoses	2021-08-21	2021-11-10
 Zoonosis-id_2	リーシュマニア症	Leishmaniasis	2021-08-21	
 Zoonosis-id_3	エボラウイルス病	Ebola virus disease	2021-08-21	
 Zoonosis-id_4	新型コロナウイルス感染症	COVID-19	2021-08-21	
@@ -158,4 +158,7 @@ Zoonosis-id_39	エボラウイルス病ザイール型	Ebola Zaire virus disease
 Zoonosis-id_40	エボラウイルス病レストン型	Ebola Reston virus disease	2021-10-22	
 Zoonosis-id_41	エボラウイルス病スーダン型	Ebola Sudan virus disease	2021-10-22	
 Zoonosis-id_42	エボラウイルス病タイフォレスト型	Ebola Tai Forest virus disease	2021-10-22	
-Zoonosis-id_43	非感染症；関節リウマチ	Non-zoonosis; rheumatoid arthritis	2021-11-05	
+Zoonosis-id_43	非感染症；関節リウマチ	non-zoonosis; rheumatoid arthritis	2021-11-05	2021-11-10
+Zoonosis-id_44	非感染症	non-zoonoses	2021-11-10	
+Zoonosis-id_45	コレラ	infectious disease but non-zoonosis; cholera	2021-11-10	
+Zoonosis-id_46	感染症但し非人獣共通感染症	infectious diseases but non-zoonoses	2021-11-10	

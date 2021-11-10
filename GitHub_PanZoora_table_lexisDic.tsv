@@ -114,7 +114,7 @@ lexisDic-id_114	lowest	低い	2021-08-21
 lexisDic-id_115	human dwelling	ヒトの住居	2021-08-21	
 lexisDic-id_116	house	家	2021-08-21	
 lexisDic-id_117	females	メス	2021-08-21	
-lexisDic-id_118	host	餌	2021-08-21	
+lexisDic-id_118	host	宿主	2021-08-21	2021-11-10
 lexisDic-id_119	blood	血	2021-08-21	
 lexisDic-id_120	meal	食餌	2021-08-21	
 lexisDic-id_121	gas chromatography-mass spectrometric analysis	ガスクロマトグラフィー–質量分析法（GC/MS）	2021-08-21	
@@ -534,11 +534,11 @@ lexisDic-id_534	early age	若年	2021-08-24
 lexisDic-id_535	group	層	2021-08-24	
 lexisDic-id_536	significant	かなり	2021-08-24	
 lexisDic-id_537	proportion	割合	2021-08-24	
-lexisDic-id_538	similar data	同様のデータ	2021-08-24	
+lexisDic-id_538	data	（同様の）データ	2021-08-24	2021-11-10
 lexisDic-id_539	other countries	他の国	2021-08-24	
 lexisDic-id_540	population	個体群	2021-08-24	
 lexisDic-id_541	more	より	2021-08-24	
-lexisDic-id_542	nearly three-fourth	ほぼ3/4	2021-08-24	
+lexisDic-id_542	nearly three	ほぼ3（/4）	2021-08-24	2021-11-10
 lexisDic-id_543	young age	若い	2021-08-24	
 lexisDic-id_544	diagnosis	診断時	2021-08-24	
 lexisDic-id_545	Infectivity	感染力	2021-08-24	
@@ -1118,7 +1118,7 @@ lexisDic-id_1118	Nucleocapsid phosphoprotein	ヌクレオカプシドタンパ�
 lexisDic-id_1119	N	ヌクレオカプシドタンパク質（Nタンパク質）	2021-09-07	
 lexisDic-id_1120	ORF8 protein	ORF8タンパク質	2021-09-07	
 lexisDic-id_1121	100	100	2021-09-07	
-lexisDic-id_1122	isolates	分離	2021-09-07	
+lexisDic-id_1122	isolates	分離株	2021-09-07	2021-11-10
 lexisDic-id_1123	fifteen	15	2021-09-07	
 lexisDic-id_1124	countries	国	2021-09-07	
 lexisDic-id_1125	reference sequence	参照配列（リファレンス配列）	2021-09-07	
@@ -2594,3 +2594,134 @@ lexisDic-id_2595	long-term	長期の	2021-11-05
 lexisDic-id_2596	RA management	関節リウマチ管理	2021-11-05	
 lexisDic-id_2597	integrative	統合	2021-11-05	
 lexisDic-id_2598	treatment strategy	治療方針	2021-11-05	
+lexisDic-id_2599	different	異なる	2021-11-10	
+lexisDic-id_2600	NCBI database	NCBIデータベース	2021-11-10	
+lexisDic-id_2601	these	SARS-CoV-2	2021-11-10	
+lexisDic-id_2602	isolates	SARS-CoV-2	2021-11-10	
+lexisDic-id_2603	isolate	SARS-CoV-2	2021-11-10	
+lexisDic-id_2604	Leucine	ロイシン	2021-11-10	
+lexisDic-id_2605	nonpolar	非極性（疎水性）	2021-11-10	
+lexisDic-id_2606	polar	極性（親水性）	2021-11-10	
+lexisDic-id_2607	affect	影響を及ぼす	2021-11-10	
+lexisDic-id_2608	conformation	立体構造/コンフォメーション	2021-11-10	
+lexisDic-id_2609	peptides	ペプチド	2021-11-10	
+lexisDic-id_2610	isolate	分離株	2021-11-10	
+lexisDic-id_2611	this virus	SARS-CoV-2	2021-11-10	
+lexisDic-id_2612	threat	脅威	2021-11-10	
+lexisDic-id_2613	proteins	タンパク質	2021-11-10	
+lexisDic-id_2614	adapted	改変する	2021-11-10	
+lexisDic-id_2615	replicate	複製する	2021-11-10	
+lexisDic-id_2616	disease	エボラウイルス病/エボラ出血熱	2021-11-10	
+lexisDic-id_2617	33	33	2021-11-10	
+lexisDic-id_2618	adaptation	改変	2021-11-10	
+lexisDic-id_2619	GP	GP	2021-11-10	
+lexisDic-id_2620	NP	NP	2021-11-10	
+lexisDic-id_2621	L	L	2021-11-10	
+lexisDic-id_2622	adapted	適応した	2021-11-10	
+lexisDic-id_2623	VP24	VP24	2021-11-10	
+lexisDic-id_2624	VP35	VP35	2021-11-10	
+lexisDic-id_2625	consistently	一貫して	2021-11-10	
+lexisDic-id_2626	mutated	変異した	2021-11-10	
+lexisDic-id_2627	rodent	齧歯目	2021-11-10	
+lexisDic-id_2628	Ebola virus strains	エボラウイルス株	2021-11-10	
+lexisDic-id_2629	Fewer than five	5未満	2021-11-10	
+lexisDic-id_2630	these genes	NP	2021-11-10	
+lexisDic-id_2631	these genes	GP	2021-11-10	
+lexisDic-id_2632	these genes	VP24	2021-11-10	
+lexisDic-id_2633	new	新しい	2021-11-10	
+lexisDic-id_2634	protein	（VP24）タンパク	2021-11-10	
+lexisDic-id_2635	karyopherin α5	カリオフェリンα5	2021-11-10	
+lexisDic-id_2636	karyopherins	カリオフェリン	2021-11-10	
+lexisDic-id_2637	host	餌	2021-08-21	2021-11-10
+lexisDic-id_2638	interferon response	インターフェロン応答	2021-11-10	
+lexisDic-id_2639	Three further	さらに3	2021-11-10	
+lexisDic-id_2640	change	変化する	2021-11-10	
+lexisDic-id_2641	hydrogen bonding	水素結合	2021-11-10	
+lexisDic-id_2642	conformational	立体構造/コンフォメーションの	2021-11-10	
+lexisDic-id_2643	changes	変化する	2021-11-10	
+lexisDic-id_2644	few	わずかな	2021-11-10	
+lexisDic-id_2645	crucial	重要な	2021-11-10	
+lexisDic-id_2646	Reston virus	レストンエボラウイルス/エボラウイルスレストン	2021-11-10	
+lexisDic-id_2647	Ebolavirus species	エボラウイルス種	2021-11-10	
+lexisDic-id_2648	circulates	流行する	2021-11-10	
+lexisDic-id_2649	similar	層	2021-11-10	
+lexisDic-id_2650	similar	若年	2021-11-10	
+lexisDic-id_2651	-	分の（/）	2021-11-10	
+lexisDic-id_2652	fourth	（ほぼ3/）4	2021-11-10	
+lexisDic-id_2653	health care facility	健康管理施設	2021-11-10	
+lexisDic-id_2654	cholera	コレラ	2021-11-10	
+lexisDic-id_2655	treatment center	治療センター	2021-11-10	
+lexisDic-id_2656	results in the production	発生する	2021-11-10	
+lexisDic-id_2657	wastewaters	廃水/汚水	2021-11-10	
+lexisDic-id_2658	onward	促進する	2021-11-10	
+lexisDic-id_2659	transmission of the disease	感染症の伝播	2021-11-10	
+lexisDic-id_2660	treatment system	処理方法	2021-11-10	
+lexisDic-id_2661	Médecins Sans Frontières	国境なき医師団	2021-11-10	
+lexisDic-id_2662	Haiti	ハイチ共和国	2021-11-10	
+lexisDic-id_2663	disinfect	消毒/殺菌する	2021-11-10	
+lexisDic-id_2664	CTC (Centre de traitement contre le choléra)	コレラ治療センター	2021-11-10	
+lexisDic-id_2665	in situ	その場で	2021-11-10	
+lexisDic-id_2666	eliminating	なくす	2021-11-10	
+lexisDic-id_2667	road	道路	2021-11-10	
+lexisDic-id_2668	haulage	運搬	2021-11-10	
+lexisDic-id_2669	waste	廃棄物（廃水/汚水）	2021-11-10	
+lexisDic-id_2670	poorly	不十分	2021-11-10	
+lexisDic-id_2671	managed	管理	2021-11-10	
+lexisDic-id_2672	hazardous waste facility	有害廃棄物処理施設	2021-11-10	
+lexisDic-id_2673	barrier	障壁/バリアー	2021-11-10	
+lexisDic-id_2674	simple	シンプルな	2021-11-10	
+lexisDic-id_2675	sanitary intervention	衛生介入	2021-11-10	
+lexisDic-id_2676	physico-chemical	物理化学的	2021-11-10	
+lexisDic-id_2677	protocols	実施要綱/プロトコル	2021-11-10	
+lexisDic-id_2678	over 600	600をこえる	2021-11-10	
+lexisDic-id_2679	m3	m3	2021-11-10	
+lexisDic-id_2680	wastewater	廃水/汚水	2021-11-10	
+lexisDic-id_2681	coagulation	凝固	2021-11-10	
+lexisDic-id_2682	flocculation	綿状沈殿	2021-11-10	
+lexisDic-id_2683	disinfection	消毒/殺菌	2021-11-10	
+lexisDic-id_2684	pH	pH	2021-11-10	
+lexisDic-id_2685	thermotolerant	耐熱性	2021-11-10	
+lexisDic-id_2686	coliforms	大腸菌群	2021-11-10	
+lexisDic-id_2687	hydrated lime (calcium hydroxide)	消石灰/水酸化カルシウム	2021-11-10	
+lexisDic-id_2688	suspended solids	浮遊物質	2021-11-10	
+lexisDic-id_2689	hydrochloric acid	塩酸	2021-11-10	
+lexisDic-id_2690	neutralization	中和	2021-11-10	
+lexisDic-id_2691	aluminum sulfate	硫酸アルミニウム	2021-11-10	
+lexisDic-id_2692	Removal	除去（率）	2021-11-10	
+lexisDic-id_2693	rates	（除去）率	2021-11-10	
+lexisDic-id_2694	COD (Chemical Oxygen Demand)	化学的酸素要求量	2021-11-10	
+lexisDic-id_2695	>99	99より大きい	2021-11-10	
+lexisDic-id_2696	>90	90より大きい	2021-11-10	
+lexisDic-id_2697	turbidity	濁度	2021-11-10	
+lexisDic-id_2698	>99.9	99.9より大きい	2021-11-10	
+lexisDic-id_2699	analysis	（コスト）分析	2021-11-10	
+lexisDic-id_2700	costs	コスト（分析）	2021-11-10	
+lexisDic-id_2701	saving	（コストの）節約	2021-11-10	
+lexisDic-id_2702	reagent	試薬	2021-11-10	
+lexisDic-id_2703	costs	コストの（節約）	2021-11-10	
+lexisDic-id_2704	super-chlorination	過剰塩素処理	2021-11-10	
+lexisDic-id_2705	The proposed approach	提案した（消毒）方法	2021-11-10	
+lexisDic-id_2706	sanitation	公衆衛生	2021-11-10	
+lexisDic-id_2707	treatment centers	治療センター	2021-11-10	
+lexisDic-id_2708	other disease	その他の感染症	2021-11-10	
+lexisDic-id_2709	UN	国連	2021-11-10	
+lexisDic-id_2710	call	要請	2021-11-10	
+lexisDic-id_2711	onsite	現場で	2021-11-10	
+lexisDic-id_2712	such emergencies	緊急事態	2021-11-10	
+lexisDic-id_2713	Coalition for Cholera Prevention and Control	Coalition for Cholera Prevention and Control	2021-11-10	
+lexisDic-id_2714	highlighted	強調した	2021-11-10	
+lexisDic-id_2715	the method	この廃水/汚水処理方法	2021-11-10	
+lexisDic-id_2716	other emergency	他の緊急事態	2021-11-10	
+lexisDic-id_2717	authors	著者ら	2021-11-10	
+lexisDic-id_2718	NGO	非政府組織	2021-11-10	
+lexisDic-id_2719	discussion	議論する	2021-11-10	
+lexisDic-id_2720	ongoing	継続している	2021-11-10	
+lexisDic-id_2721	Oxfam	オックスファム	2021-11-10	
+lexisDic-id_2722	disease	（糞口）感染症	2021-11-10	
+lexisDic-id_2723	Myanmar	ミャンマー連邦共和国	2021-11-10	
+lexisDic-id_2724	post	後	2021-11-10	
+lexisDic-id_2725	disaster	災害	2021-11-10	
+lexisDic-id_2726	incremental	段階的	2021-11-10	
+lexisDic-id_2727	improvements	改善	2021-11-10	
+lexisDic-id_2728	local	ミャンマー連邦共和国	2021-11-10	
+lexisDic-id_2729	local	フィリピン共和国	2021-11-10	

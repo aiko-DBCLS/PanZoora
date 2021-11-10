@@ -43,7 +43,7 @@ ZoonosesDic-id_42	macrophages	マクロファージ	MESH:D008264		https://pubann
 ZoonosesDic-id_43	THP-1	THP-1細胞	MESH:D000074084		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32097700/spans/1015-1020	2021-09-26	
 ZoonosesDic-id_44	IL-8	IL-8	Gene:3576		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32097700/spans/1026-1030	2021-09-26	
 ZoonosesDic-id_46	cytokine	サイトカイン	MESH:D016207		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32097700/spans/1044-1052	2021-09-26	
-ZoonosesDic-id_47	IL-1β	IL-1β	Gene:7124		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32097700/spans/1054-1059	2021-09-26	
+ZoonosesDic-id_47	IL-1β	IL-1β	Gene:3553		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32097700/spans/1054-1059	2021-09-26	
 ZoonosesDic-id_48	IFNγ	IFNγ	Gene:3458		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32097700/spans/1065-1069	2021-09-26	
 ZoonosesDic-id_49	challenged	誘導性			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32097700/spans/1071-1081	2021-09-26	
 ZoonosesDic-id_50	intestinal	小腸	MESH:D007422		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32097700/spans/1088-1098	2021-09-26	
@@ -114,7 +114,7 @@ ZoonosesDic-id_114	lowest	低い			https://pubannotation.org/projects/Zoonoses/d
 ZoonosesDic-id_115	human dwelling	ヒトの住居			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33524028/spans/1412-1426	2021-09-26	
 ZoonosesDic-id_116	house	家			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33524028/spans/1428-1433	2021-09-26	
 ZoonosesDic-id_117	females	メス	MESH:D005260		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33524028/spans/1510-1517	2021-09-26	
-ZoonosesDic-id_118	host	餌			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33524028/spans/1638-1642	2021-09-26	
+ZoonosesDic-id_118	host	宿主			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33524028/spans/1638-1642	2021-09-26	
 ZoonosesDic-id_119	blood	血	MESH:D001769		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33524028/spans/1658-1663	2021-09-26	
 ZoonosesDic-id_120	meal	食餌	MESH:D062407		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33524028/spans/1664-1668	2021-09-26	
 ZoonosesDic-id_121	gas chromatography-mass spectrometric analysis	ガスクロマトグラフィー–質量分析法（GC/MS）	MESH:D008401		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33524028/spans/1683-1729	2021-09-26	
@@ -424,7 +424,7 @@ ZoonosesDic-id_424	2021	2021年			https://pubannotation.org/projects/Zoonoses/do
 ZoonosesDic-id_425	vaccine candidates	COVID-19ワクチン候補	MESH:D000086663		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33494237/spans/726-744	2021-09-26	
 ZoonosesDic-id_426	around 95	約95％			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33494237/spans/752-761	2021-09-26	
 ZoonosesDic-id_427	clinical efficacy	臨床効果	MESH:D016896		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33494237/spans/763-780	2021-09-26	
-ZoonosesDic-id_428	emergency	緊急			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33494237/spans/800-809	2021-09-26	
+ZoonosesDic-id_428	emergency	緊急	MESH:D004630		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33494237/spans/800-809	2021-09-26	
 ZoonosesDic-id_429	use	使用			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33494237/spans/810-813	2021-09-26	
 ZoonosesDic-id_430	different countries	さまざまな国			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33494237/spans/827-846	2021-09-26	
 ZoonosesDic-id_431	US FDA	アメリカFDA	MESH:D014486		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33494237/spans/848-854	2021-09-26	
@@ -549,11 +549,11 @@ ZoonosesDic-id_549	early age	若年			https://pubannotation.org/projects/Zoonose
 ZoonosesDic-id_550	group	層	Tax:9606		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32610873/spans/4285-4290	2021-09-26	
 ZoonosesDic-id_551	significant	かなり			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32610873/spans/4312-4323	2021-09-26	
 ZoonosesDic-id_552	proportion	割合			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32610873/spans/4324-4334	2021-09-26	
-ZoonosesDic-id_553	similar data	同様のデータ			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32610873/spans/4354-4366	2021-09-26	
+ZoonosesDic-id_553	data	（同様の）データ			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32610873/spans/4362-4366	2021-09-26	
 ZoonosesDic-id_554	other countries	他の国			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32610873/spans/4372-4387	2021-09-26	
 ZoonosesDic-id_555	population	個体群	Tax:9606		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32610873/spans/4415-4425	2021-09-26	
 ZoonosesDic-id_556	more	より			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32610873/spans/4443-4447	2021-09-26	
-ZoonosesDic-id_557	nearly three-fourth	ほぼ3/4			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32610873/spans/4515-4534	2021-09-26	
+ZoonosesDic-id_557	nearly three	ほぼ3（/4）			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32610873/spans/4515-4527	2021-09-26	
 ZoonosesDic-id_558	young age	若い			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32610873/spans/4565-4574	2021-09-26	
 ZoonosesDic-id_559	diagnosis	診断時			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32610873/spans/4597-4606	2021-09-26	
 ZoonosesDic-id_560	Infectivity	感染力		MESH:D012327	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32610873/spans/4859-4870	2021-09-26	
@@ -1142,7 +1142,7 @@ ZoonosesDic-id_1143	Nucleocapsid phosphoprotein	ヌクレオカプシドタン�
 ZoonosesDic-id_1144	N	ヌクレオカプシドタンパク質（Nタンパク質）	Gene:43740575		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/566-567	2021-09-26	
 ZoonosesDic-id_1145	ORF8 protein	ORF8タンパク質	Gene:43740577		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/574-586	2021-09-26	
 ZoonosesDic-id_1146	100	100			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/590-593	2021-09-26	
-ZoonosesDic-id_1147	isolates	分離			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/615-623	2021-09-26	
+ZoonosesDic-id_1147	isolates	分離株			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/615-623	2021-09-26	
 ZoonosesDic-id_1148	fifteen	15			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/627-634	2021-09-26	
 ZoonosesDic-id_1149	countries	国			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/635-644	2021-09-26	
 ZoonosesDic-id_1150	reference sequence	参照配列（リファレンス配列）			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/690-708	2021-09-26	
@@ -2612,13 +2612,13 @@ ZoonosesDic-id_2613	meloxicam	メロキシカム	MESH:D000077239		https://pubann
 ZoonosesDic-id_2614	Sprague Dawley rat	SDラット/アルビノラット	Tax:10116		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/703-721	2021-11-05	
 ZoonosesDic-id_2615	Freund's adjuvant	フロイントアジュバント	MESH:D005620		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/762-779	2021-11-05	
 ZoonosesDic-id_2616	CFA	完全フロイントアジュバント（complete Freund's adjuvant）		MESH:D005620	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/781-784	2021-11-05	
-ZoonosesDic-id_2617	249				https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/1012-1017	2021-11-05	
-ZoonosesDic-id_2618	mg/kg.bw				https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/1018-1026	2021-11-05	
-ZoonosesDic-id_2619	day				https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/1033-1036	2021-11-05	
-ZoonosesDic-id_2620	14-42				https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/1037-1042	2021-11-05	
-ZoonosesDic-id_2621	alleviated				https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/1043-1053	2021-11-05	
-ZoonosesDic-id_2622	paw			MESH:D005528	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/1054-1057	2021-11-05	
-ZoonosesDic-id_2623	edema		MESH:D004487		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/1058-1063	2021-11-05	
+ZoonosesDic-id_2617	249	249			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/1012-1017	2021-11-05	
+ZoonosesDic-id_2618	mg/kg.bw	mg/kg.bw			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/1018-1026	2021-11-05	
+ZoonosesDic-id_2619	day	日			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/1033-1036	2021-11-05	
+ZoonosesDic-id_2620	14-42	14-42			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/1037-1042	2021-11-05	
+ZoonosesDic-id_2621	alleviated	緩和する			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/1043-1053	2021-11-05	
+ZoonosesDic-id_2622	paw	足		MESH:D005528	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/1054-1057	2021-11-05	
+ZoonosesDic-id_2623	edema	浮腫	MESH:D004487		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/1058-1063	2021-11-05	
 ZoonosesDic-id_2624	< 0.001	0.001より小さい			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/1067-1074	2021-11-05	
 ZoonosesDic-id_2625	arthritic	関節炎	MESH:D001168		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/1077-1086	2021-11-05	
 ZoonosesDic-id_2626	index	指標			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/1087-1092	2021-11-05	
@@ -2645,3 +2645,137 @@ ZoonosesDic-id_2646	long-term	長期の			https://pubannotation.org/projects/Zoo
 ZoonosesDic-id_2647	RA management	関節リウマチ管理	MESH:D019468	MESH:D001172	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/1880-1893	2021-11-05	
 ZoonosesDic-id_2648	integrative	統合			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/1900-1911	2021-11-05	
 ZoonosesDic-id_2649	treatment strategy	治療方針			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32151943/spans/1912-1930	2021-11-05	
+ZoonosesDic-id_2650	different	異なる			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/594-603	2021-11-10	
+ZoonosesDic-id_2651	NCBI database	NCBIデータベース			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/650-663	2021-11-10	
+ZoonosesDic-id_2652	these	SARS-CoV-2	Tax:2697049		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/677-682	2021-11-10	
+ZoonosesDic-id_2653	isolates	SARS-CoV-2	Tax:2697049		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/1193-1201	2021-11-10	
+ZoonosesDic-id_2654	isolate	SARS-CoV-2	Tax:2697049		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/1266-1273	2021-11-10	
+ZoonosesDic-id_2655	Leucine	ロイシン	MESH:D007930		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/1314-1321	2021-11-10	
+ZoonosesDic-id_2656	nonpolar	非極性（疎水性）			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/1325-1333	2021-11-10	
+ZoonosesDic-id_2657	polar	極性（親水性）			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/1346-1351	2021-11-10	
+ZoonosesDic-id_2658	affect	影響を及ぼす			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/1493-1499	2021-11-10	
+ZoonosesDic-id_2659	conformation	立体構造/コンフォメーション			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/1504-1516	2021-11-10	
+ZoonosesDic-id_2660	peptides	ペプチド	MESH:D010455		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/1520-1528	2021-11-10	
+ZoonosesDic-id_2661	isolate	分離株			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/1628-1635	2021-11-10	
+ZoonosesDic-id_2662	this virus	SARS-CoV-2	Tax:2697049		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/1671-1681	2021-11-10	
+ZoonosesDic-id_2663	threat	脅威			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/1693-1699	2021-11-10	
+ZoonosesDic-id_2664	proteins	タンパク質			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32954047/spans/1809-1817	2021-11-10	
+ZoonosesDic-id_2665	adapted	改変する	MESH:D000086967		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/121-128	2021-11-10	
+ZoonosesDic-id_2666	replicate	複製する		MESH:D050296	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/132-141	2021-11-10	
+ZoonosesDic-id_2667	disease	エボラウイルス病/エボラ出血熱	MESH:D019142		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/152-159	2021-11-10	
+ZoonosesDic-id_2668	33	33			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/397-399	2021-11-10	
+ZoonosesDic-id_2669	adaptation	改変	MESH:D000086967		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/448-458	2021-11-10	
+ZoonosesDic-id_2670	GP	GP	MESH:C110614		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/486-488	2021-11-10	
+ZoonosesDic-id_2671	NP	NP	MESH:C113190		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/490-492	2021-11-10	
+ZoonosesDic-id_2672	L	L		Zaire ebolavirus	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/494-495	2021-11-10	
+ZoonosesDic-id_2673	L	L		Gene:911824	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/494-495	2021-11-10	
+ZoonosesDic-id_2674	VP24	VP24	MESH:C446938		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/497-501	2021-11-10	
+ZoonosesDic-id_2675	VP35	VP35	MESH:C084818		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/506-510	2021-11-10	
+ZoonosesDic-id_2676	consistently	一貫して			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/538-550	2021-11-10	
+ZoonosesDic-id_2677	mutated	変異した	MESH:D009154		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/557-564	2021-11-10	
+ZoonosesDic-id_2678	rodent	齧歯目	Tax:9989		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/568-574	2021-11-10	
+ZoonosesDic-id_2679	Ebola virus strains	エボラウイルス株	Tax:186536		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/583-602	2021-11-10	
+ZoonosesDic-id_2680	adapted	適応した	MESH:D000086967		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/575-582	2021-11-10	
+ZoonosesDic-id_2681	Fewer than five	5未満			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/604-619	2021-11-10	
+ZoonosesDic-id_2682	these genes	NP	MESH:C113190		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/633-644	2021-11-10	
+ZoonosesDic-id_2683	these genes	GP	MESH:C110614		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/633-644	2021-11-10	
+ZoonosesDic-id_2684	these genes	VP24	MESH:C446938		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/633-644	2021-11-10	
+ZoonosesDic-id_2685	new	新しい			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/706-709	2021-11-10	
+ZoonosesDic-id_2686	protein	（VP24）タンパク	MESH:C446938		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/813-820	2021-11-10	
+ZoonosesDic-id_2687	karyopherin α5	カリオフェリンα5			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/836-850	2021-11-10	
+ZoonosesDic-id_2688	karyopherins	カリオフェリン			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/878-890	2021-11-10	
+ZoonosesDic-id_2689	interferon response	インターフェロン応答		MESH:D007372	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/917-936	2021-11-10	
+ZoonosesDic-id_2690	Three further	さらに3			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/938-951	2021-11-10	
+ZoonosesDic-id_2691	change	変化する			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/967-973	2021-11-10	
+ZoonosesDic-id_2692	hydrogen bonding	水素結合	MESH:D006860		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/974-990	2021-11-10	
+ZoonosesDic-id_2693	conformational	立体構造/コンフォメーションの			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/1000-1014	2021-11-10	
+ZoonosesDic-id_2694	changes	変化する			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/1015-1022	2021-11-10	
+ZoonosesDic-id_2695	few	わずかな			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/1054-1057	2021-11-10	
+ZoonosesDic-id_2696	crucial	重要な			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/1078-1085	2021-11-10	
+ZoonosesDic-id_2697	Reston virus	レストンエボラウイルス/エボラウイルスレストン	Tax:186539		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/1154-1166	2021-11-10	
+ZoonosesDic-id_2698	Ebolavirus species	エボラウイルス種	Tax:186536		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/1198-1216	2021-11-10	
+ZoonosesDic-id_2699	circulates	流行する			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/28200119/spans/1217-1227	2021-11-10	
+ZoonosesDic-id_2700	similar	層	Tax:9606		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32610873/spans/4354-4361	2021-11-10	
+ZoonosesDic-id_2701	similar	若年			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32610873/spans/4354-4361	2021-11-10	
+ZoonosesDic-id_2702	-	分の（/）			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32610873/spans/4527-4528	2021-11-10	
+ZoonosesDic-id_2703	fourth	（ほぼ3/）4			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32610873/spans/4528-4534	2021-11-10	
+ZoonosesDic-id_2704	health care facility	健康管理施設	MESH:D006268		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/170-190	2021-11-10	
+ZoonosesDic-id_2705	cholera	コレラ	MESH:D002771		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/202-209	2021-11-10	
+ZoonosesDic-id_2706	treatment center	治療センター		MESH:D006268	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/219-235	2021-11-10	
+ZoonosesDic-id_2707	results in the production	発生する			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/261-286	2021-11-10	
+ZoonosesDic-id_2708	wastewaters	廃水/汚水	MESH:D062065		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/305-316	2021-11-10	
+ZoonosesDic-id_2709	onward	促進する			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/346-352	2021-11-10	
+ZoonosesDic-id_2710	transmission of the disease	感染症の伝播	MESH:D018562		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/353-380	2021-11-10	
+ZoonosesDic-id_2711	treatment system	処理方法			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/456-472	2021-11-10	
+ZoonosesDic-id_2712	Médecins Sans Frontières	国境なき医師団			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/495-519	2021-11-10	
+ZoonosesDic-id_2713	Haiti	ハイチ共和国	MESH:D006205		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/523-528	2021-11-10	
+ZoonosesDic-id_2714	disinfect	消毒/殺菌する	MESH:D004203		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/532-541	2021-11-10	
+ZoonosesDic-id_2715	CTC (Centre de traitement contre le choléra)	コレラ治療センター		MESH:D002771	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/542-545	2021-11-10	
+ZoonosesDic-id_2716	CTC (Centre de traitement contre le choléra)	コレラ治療センター		MESH:D006268	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/542-545	2021-11-10	
+ZoonosesDic-id_2717	in situ	その場で			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/558-565	2021-11-10	
+ZoonosesDic-id_2718	eliminating	なくす			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/567-578	2021-11-10	
+ZoonosesDic-id_2719	road	道路			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/592-596	2021-11-10	
+ZoonosesDic-id_2720	haulage	運搬			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/597-604	2021-11-10	
+ZoonosesDic-id_2721	waste	廃棄物（廃水/汚水）	MESH:D062065		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/625-630	2021-11-10	
+ZoonosesDic-id_2722	poorly	不十分			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/636-642	2021-11-10	
+ZoonosesDic-id_2723	managed	管理			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/643-650	2021-11-10	
+ZoonosesDic-id_2724	hazardous waste facility	有害廃棄物処理施設			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/651-675	2021-11-10	
+ZoonosesDic-id_2725	barrier	障壁/バリアー			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/708-715	2021-11-10	
+ZoonosesDic-id_2726	simple	シンプルな			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/760-766	2021-11-10	
+ZoonosesDic-id_2727	sanitary intervention	衛生介入		MESH:D004323	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/767-788	2021-11-10	
+ZoonosesDic-id_2728	physico-chemical	物理化学的		MESH:D002627	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/794-810	2021-11-10	
+ZoonosesDic-id_2729	protocols	実施要綱/プロトコル			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/811-820	2021-11-10	
+ZoonosesDic-id_2730	over 600	600をこえる			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/853-861	2021-11-10	
+ZoonosesDic-id_2731	m3	m3			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/862-864	2021-11-10	
+ZoonosesDic-id_2732	wastewater	廃水/汚水	MESH:D062065		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/868-878	2021-11-10	
+ZoonosesDic-id_2733	coagulation	凝固		MESH:D005427	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/890-901	2021-11-10	
+ZoonosesDic-id_2734	flocculation	綿状沈殿	MESH:D005427		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/902-914	2021-11-10	
+ZoonosesDic-id_2735	disinfection	消毒/殺菌	MESH:D004203		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/919-931	2021-11-10	
+ZoonosesDic-id_2736	pH	pH			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/952-954	2021-11-10	
+ZoonosesDic-id_2737	thermotolerant	耐熱性	MESH:D000071436		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1012-1026	2021-11-10	
+ZoonosesDic-id_2738	coliforms	大腸菌群	Tax:561		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1027-1036	2021-11-10	
+ZoonosesDic-id_2739	hydrated lime (calcium hydroxide)	消石灰/水酸化カルシウム	MESH:D002126		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1102-1115	2021-11-10	
+ZoonosesDic-id_2740	suspended solids	浮遊物質			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1184-1200	2021-11-10	
+ZoonosesDic-id_2741	hydrochloric acid	塩酸	MESH:D006851		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1262-1279	2021-11-10	
+ZoonosesDic-id_2742	neutralization	中和			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1296-1310	2021-11-10	
+ZoonosesDic-id_2743	aluminum sulfate	硫酸アルミニウム	MESH:C041524		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1366-1382	2021-11-10	
+ZoonosesDic-id_2744	Removal	除去（率）			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1384-1391	2021-11-10	
+ZoonosesDic-id_2745	rates	（除去）率			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1392-1397	2021-11-10	
+ZoonosesDic-id_2746	COD (Chemical Oxygen Demand)	化学的酸素要求量	MESH:D057919		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1413-1416	2021-11-10	
+ZoonosesDic-id_2747	>99	99より大きい			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1417-1420	2021-11-10	
+ZoonosesDic-id_2748	>90	90より大きい			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1440-1443	2021-11-10	
+ZoonosesDic-id_2749	turbidity	濁度			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1446-1455	2021-11-10	
+ZoonosesDic-id_2750	>99.9	99.9より大きい			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1490-1495	2021-11-10	
+ZoonosesDic-id_2751	analysis	（コスト）分析	MESH:D003365		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1783-1791	2021-11-10	
+ZoonosesDic-id_2752	costs	コスト（分析）	MESH:D003365		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1795-1800	2021-11-10	
+ZoonosesDic-id_2753	saving	（コストの）節約	MESH:D017046		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1828-1834	2021-11-10	
+ZoonosesDic-id_2754	reagent	試薬	MESH:D007202		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1838-1845	2021-11-10	
+ZoonosesDic-id_2755	costs	コストの（節約）	MESH:D017046		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1846-1851	2021-11-10	
+ZoonosesDic-id_2756	super-chlorination	過剰塩素処理			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1896-1914	2021-11-10	
+ZoonosesDic-id_2757	The proposed approach	提案した（消毒）方法			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1916-1937	2021-11-10	
+ZoonosesDic-id_2758	sanitation	公衆衛生	MESH:D012499		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1949-1959	2021-11-10	
+ZoonosesDic-id_2759	treatment centers	治療センター		MESH:D006268	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1971-1988	2021-11-10	
+ZoonosesDic-id_2760	other disease	その他の感染症		MESH:D003141	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/1993-2006	2021-11-10	
+ZoonosesDic-id_2761	UN	国連			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2059-2061	2021-11-10	
+ZoonosesDic-id_2762	call	要請			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2062-2066	2021-11-10	
+ZoonosesDic-id_2763	onsite	現場で			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2071-2077	2021-11-10	
+ZoonosesDic-id_2764	such emergencies	緊急事態	MESH:D004630		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2119-2135	2021-11-10	
+ZoonosesDic-id_2765	Coalition for Cholera Prevention and Control	Coalition for Cholera Prevention and Control			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2146-2190	2021-11-10	
+ZoonosesDic-id_2766	highlighted	強調した			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2201-2212	2021-11-10	
+ZoonosesDic-id_2767	the method	この廃水/汚水処理方法			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2303-2313	2021-11-10	
+ZoonosesDic-id_2768	other emergency	他の緊急事態	MESH:D004630		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2317-2332	2021-11-10	
+ZoonosesDic-id_2769	authors	著者ら	Tax:9606		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2377-2384	2021-11-10	
+ZoonosesDic-id_2770	authors	著者ら	MESH:D012108		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2377-2384	2021-11-10	
+ZoonosesDic-id_2771	discussion	議論する			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2393-2403	2021-11-10	
+ZoonosesDic-id_2772	ongoing	継続している			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2459-2466	2021-11-10	
+ZoonosesDic-id_2773	Oxfam	オックスファム			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2524-2529	2021-11-10	
+ZoonosesDic-id_2774	excreta	排泄物		MESH:D014556	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2546-2553	2021-11-10	
+ZoonosesDic-id_2775	disease	（糞口）感染症		MESH:D003141	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2560-2567	2021-11-10	
+ZoonosesDic-id_2776	Myanmar	ミャンマー連邦共和国	MESH:D002052		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2602-2609	2021-11-10	
+ZoonosesDic-id_2777	post	後			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2629-2633	2021-11-10	
+ZoonosesDic-id_2778	disaster	災害	MESH:D004190		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2634-2642	2021-11-10	
+ZoonosesDic-id_2779	incremental	段階的			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2643-2654	2021-11-10	
+ZoonosesDic-id_2780	improvements	改善	MESH:D058996		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2655-2667	2021-11-10	
+ZoonosesDic-id_2781	local	ミャンマー連邦共和国	MESH:D002052		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2671-2676	2021-11-10	
+ZoonosesDic-id_2782	local	フィリピン共和国	MESH:D010679		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2671-2676	2021-11-10	
+ZoonosesDic-id_2783	NGO	非政府組織	MESH:D009938		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2520-2523	2021-11-10	
