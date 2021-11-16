@@ -114,7 +114,7 @@ ZoonosesDic-id_114	lowest	低い			https://pubannotation.org/projects/Zoonoses/d
 ZoonosesDic-id_115	human dwelling	ヒトの住居			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33524028/spans/1412-1426	2021-09-26	
 ZoonosesDic-id_116	house	家			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33524028/spans/1428-1433	2021-09-26	
 ZoonosesDic-id_117	females	メス	MESH:D005260		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33524028/spans/1510-1517	2021-09-26	
-ZoonosesDic-id_118	host	宿主			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33524028/spans/1638-1642	2021-09-26	
+ZoonosesDic-id_118	host	餌			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33524028/spans/1638-1642	2021-09-26	
 ZoonosesDic-id_119	blood	血	MESH:D001769		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33524028/spans/1658-1663	2021-09-26	
 ZoonosesDic-id_120	meal	食餌	MESH:D062407		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33524028/spans/1664-1668	2021-09-26	
 ZoonosesDic-id_121	gas chromatography-mass spectrometric analysis	ガスクロマトグラフィー–質量分析法（GC/MS）	MESH:D008401		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33524028/spans/1683-1729	2021-09-26	
@@ -2245,7 +2245,7 @@ ZoonosesDic-id_2246	transmitted	伝播される	MESH:D018562		https://pubannotat
 ZoonosesDic-id_2247	arthropod	節足動物	Tax:6656		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33925487/spans/1387-1396	2021-10-13	
 ZoonosesDic-id_2248	monitoring	監視する		MESH:D062665	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33925487/spans/1444-1454	2021-10-13	
 ZoonosesDic-id_2249	circulation	循環			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33925487/spans/1473-1484	2021-10-13	
-ZoonosesDic-id_2250	epizooties	動物間流行病			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33925487/spans/1501-1511	2021-10-13	
+ZoonosesDic-id_2250	epizooties	動物間流行性病			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33925487/spans/1501-1511	2021-10-13	
 ZoonosesDic-id_2251	Neurological manifestations	神経症状	MESH:D009461		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33895780/spans/110-137	2021-10-13	
 ZoonosesDic-id_2252	invades	侵入する	MESH:D053586		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33895780/spans/398-405	2021-10-13	
 ZoonosesDic-id_2253	olfactory bulb	嗅球	MESH:D009830		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/33895780/spans/432-446	2021-10-13	
@@ -2779,3 +2779,135 @@ ZoonosesDic-id_2780	improvements	改善	MESH:D058996		https://pubannotation.org/
 ZoonosesDic-id_2781	local	ミャンマー連邦共和国	MESH:D002052		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2671-2676	2021-11-10	
 ZoonosesDic-id_2782	local	フィリピン共和国	MESH:D010679		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2671-2676	2021-11-10	
 ZoonosesDic-id_2783	NGO	非政府組織	MESH:D009938		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/26110821/spans/2520-2523	2021-11-10	
+ZoonosesDic-id_2784	Sunda pangolin	マレーセンザンコウ（マライセンザンコウ）	Tax:9974		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/24300-24314	2021-11-17	
+ZoonosesDic-id_2785	Chinese pangolin	ミミセンザンコウ	Tax:143292		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/24336-24352	2021-11-17	
+ZoonosesDic-id_2786	Manis pentadactyla	ミミセンザンコウ	Tax:143292		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/24354-24372	2021-11-17	
+ZoonosesDic-id_2787	viruses related to SARS-CoV-2	SARS-CoV-2関連ウイルス		Tax:2697049	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/24409-24438	2021-11-17	
+ZoonosesDic-id_2788	trafficking	密売			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/24546-24557	2021-11-17	
+ZoonosesDic-id_2789	sick	病気の		MESH:D007239	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/24567-24571	2021-11-17	
+ZoonosesDic-id_2790	seized	押収する			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/24587-24593	2021-11-17	
+ZoonosesDic-id_2791	Chinese	中国の	MESH:D002681		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/24597-24604	2021-11-17	
+ZoonosesDic-id_2792	customs	税関			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/24605-24612	2021-11-17	
+ZoonosesDic-id_2793	province	州、省、国、県			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/24623-24631	2021-11-17	
+ZoonosesDic-id_2794	2017	2017年			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/24635-24639	2021-11-17	
+ZoonosesDic-id_2795	Guangxi	広西チワン族自治区		MESH:D002681	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/24663-24670	2021-11-17	
+ZoonosesDic-id_2796	viruses	SARS関連コロナウイルス	Tax:2509511		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/24744-24751	2021-11-17	
+ZoonosesDic-id_2797	sequenced	配列決定された		MESH:D017385	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/24752-24761	2021-11-17	
+ZoonosesDic-id_2798	one	SARS関連コロナウイルス	Tax:2509511		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/24809-24812	2021-11-17	
+ZoonosesDic-id_2799	85	85			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/24817-24819	2021-11-17	
+ZoonosesDic-id_2800	the other	SARS関連コロナウイルス	Tax:2509511		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/24835-24844	2021-11-17	
+ZoonosesDic-id_2801	sarbecoviruses	SARS関連コロナウイルス	Tax:2509511		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/24883-24897	2021-11-17	
+ZoonosesDic-id_2802	imported	輸入された			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/24914-24922	2021-11-17	
+ZoonosesDic-id_2803	Sunda pangolins	マレーセンザンコウ（マライセンザンコウ）	Tax:9974		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25013-25028	2021-11-17	
+ZoonosesDic-id_2804	Southeast Asian	東南アジアの	MESH:D001210		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25054-25069	2021-11-17	
+ZoonosesDic-id_2805	contaminated	汚染される/感染される		MESH:D007239	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25083-25095	2021-11-17	
+ZoonosesDic-id_2806	each other	互いに	Tax:9974		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25096-25106	2021-11-17	
+ZoonosesDic-id_2807	43	43			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25176-25178	2021-11-17	
+ZoonosesDic-id_2808	at least one	少なくとも1			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25217-25229	2021-11-17	
+ZoonosesDic-id_2809	SARS-CoV-2-like virus	SARS-CoV-2様ウイルス		Tax:2697049	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25230-25251	2021-11-17	
+ZoonosesDic-id_2810	acute interstitial pneumonia	急性間質性肺炎	MESH:D000080203		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25312-25340	2021-11-17	
+ZoonosesDic-id_2811	captive	飼育下			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25389-25396	2021-11-17	
+ZoonosesDic-id_2812	permissive	許容的な			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25418-25428	2021-11-17	
+ZoonosesDic-id_2813	SARS-CoV-2-like viruses	SARS-CoV-2様ウイルス		Tax:2697049	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25445-25468	2021-11-17	
+ZoonosesDic-id_2814	it	SARS-CoV-2様ウイルス		Tax:2697049	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25552-25554	2021-11-17	
+ZoonosesDic-id_2815	their	マレーセンザンコウ（マライセンザンコウ）	Tax:9974		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25568-25573	2021-11-17	
+ZoonosesDic-id_2816	viruses close to SARS-CoV-2	SARS-CoV-2類似ウイルス		Tax:2697049	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25659-25686	2021-11-17	
+ZoonosesDic-id_2817	bats	キクガシラコウモリ属	Tax:49442		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25690-25694	2021-11-17	
+ZoonosesDic-id_2818	Cambodia	カンボジア王国	MESH:D002160		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25700-25708	2021-11-17	
+ZoonosesDic-id_2819	Thailand	タイ王国	MESH:D013785		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25713-25721	2021-11-17	
+ZoonosesDic-id_2820	Rhinolophus bats	キクガシラコウモリ属	Tax:49442		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25754-25770	2021-11-17	
+ZoonosesDic-id_2821	at least occasionally	少なくとも時折			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25795-25816	2021-11-17	
+ZoonosesDic-id_2822	tree hollows	樹洞	MESH:D014197		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25867-25879	2021-11-17	
+ZoonosesDic-id_2823	burrows	巣穴			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25883-25890	2021-11-17	
+ZoonosesDic-id_2824	overlaps	重なり合う			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25980-25988	2021-11-17	
+ZoonosesDic-id_2825	ecological niche	生態的地位	MESH:D017753		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/25993-26009	2021-11-17	
+ZoonosesDic-id_2826	bat	キクガシラコウモリ属	Tax:49442		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/26029-26032	2021-11-17	
+ZoonosesDic-id_2827	SCoV2rCs	SARS-CoV-2関連コロナウイルス		Tax:2697049	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/26033-26041	2021-11-17	
+ZoonosesDic-id_2828	ten	10			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/26133-26136	2021-11-17	
+ZoonosesDic-id_2829	sera	血清	MESH:D044967		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/26146-26150	2021-11-17	
+ZoonosesDic-id_2830	February	2月			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/26164-26172	2021-11-17	
+ZoonosesDic-id_2831	July	7月			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/26176-26180	2021-11-17	
+ZoonosesDic-id_2832	checkpoint stations	検査所			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PMC/sourceid/8275577/spans/26206-26225	2021-11-17	
+ZoonosesDic-id_2833	transfer	うつる		MESH:D018562	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/106-114	2021-11-17	
+ZoonosesDic-id_2834	Combining data	情報統合			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/423-437	2021-11-17	
+ZoonosesDic-id_2835	mammal species	哺乳綱/哺乳類	Tax:40674		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/441-455	2021-11-17	
+ZoonosesDic-id_2836	one-quarter	1/4			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/558-569	2021-11-17	
+ZoonosesDic-id_2837	26.5	26.5			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/571-575	2021-11-17	
+ZoonosesDic-id_2838	distinct compositions	異なる組成		MESH:D058448	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/742-763	2021-11-17	
+ZoonosesDic-id_2839	ungulates	有蹄類			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/897-906	2021-11-17	
+ZoonosesDic-id_2840	risks	リスク	MESH:D012306		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/968-973	2021-11-17	
+ZoonosesDic-id_2841	they	コウモリ	Tax:9397		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/977-981	2021-11-17	
+ZoonosesDic-id_2842	they	肉食動物	Tax:33554		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/977-981	2021-11-17	
+ZoonosesDic-id_2843	they	霊長目	Tax:9443		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/977-981	2021-11-17	
+ZoonosesDic-id_2844	they	有蹄類			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/977-981	2021-11-17	
+ZoonosesDic-id_2845	132	132			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/987-990	2021-11-17	
+ZoonosesDic-id_2846	58	58			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/992-994	2021-11-17	
+ZoonosesDic-id_2847	226	226			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/1000-1003	2021-11-17	
+ZoonosesDic-id_2848	present	現在の			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/1030-1037	2021-11-17	
+ZoonosesDic-id_2849	marsupials	有袋類	Tax:9263		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/1092-1102	2021-11-17	
+ZoonosesDic-id_2850	risk	リスク	MESH:D012306		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/1184-1188	2021-11-17	
+ZoonosesDic-id_2851	zoonotic diseases	人獣共通感染症	MESH:D000086965		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/1201-1218	2021-11-17	
+ZoonosesDic-id_2852	equal	等しい			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/1226-1231	2021-11-17	
+ZoonosesDic-id_2853	prioritize	優先順位をつける			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/1428-1438	2021-11-17	
+ZoonosesDic-id_2855	species	有袋類	Tax:9263		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/1439-1446	2021-11-17	
+ZoonosesDic-id_2856	species	齧歯目	Tax:9989		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/1439-1446	2021-11-17	
+ZoonosesDic-id_2857	species	肉食動物	Tax:33554		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/1439-1446	2021-11-17	
+ZoonosesDic-id_2858	species	霊長目	Tax:9443		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/1439-1446	2021-11-17	
+ZoonosesDic-id_2859	Curbing	抑制			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/1499-1506	2021-11-17	
+ZoonosesDic-id_2860	developing	展開する	MESH:D000076502		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/1542-1552	2021-11-17	
+ZoonosesDic-id_2861	sustainable	持続可能な	MESH:D000076502		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/1581-1592	2021-11-17	
+ZoonosesDic-id_2862	cost-effective	費用効果の高い		MESH:D017046	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/1632-1646	2021-11-17	
+ZoonosesDic-id_2863	investments	投資	MESH:D007449		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/34237267/spans/1647-1658	2021-11-17	
+ZoonosesDic-id_2864	Epizootic	動物間流行性の			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/64-73	2021-11-17	
+ZoonosesDic-id_2865	threat	脅威		MESH:D056727	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/97-103	2021-11-17	
+ZoonosesDic-id_2866	rapidly	急速に			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/161-168	2021-11-17	
+ZoonosesDic-id_2867	changing	変化する			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/169-177	2021-11-17	
+ZoonosesDic-id_2868	environments	環境下	MESH:D004777		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/178-190	2021-11-17	
+ZoonosesDic-id_2869	Pholidota	鱗甲目	Tax:9971		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/209-218	2021-11-17	
+ZoonosesDic-id_2870	threatened	絶滅危惧	MESH:D056727		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/231-241	2021-11-17	
+ZoonosesDic-id_2871	August	8月			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/318-324	2021-11-17	
+ZoonosesDic-id_2872	a variety	様々な			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/416-425	2021-11-17	
+ZoonosesDic-id_2873	clinical symptoms	臨床症状			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/429-446	2021-11-17	
+ZoonosesDic-id_2874	Jinhua Wildlife Protection Station	金華市野生生物保護ステーション			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/467-501	2021-11-17	
+ZoonosesDic-id_2875	Zhejiang	浙江省		MESH:D002681	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/505-513	2021-11-17	
+ZoonosesDic-id_2876	these animals	ミミセンザンコウ	Tax:143292		https://pubannotation.org/projects/Zoonoses_partialAnnotation/docs/sourcedb/PMC/sourceid/7151644/spans/567-580	2021-11-17	
+ZoonosesDic-id_2877	these animals	マレーセンザンコウ（マライセンザンコウ）	Tax:9974		https://pubannotation.org/projects/Zoonoses_partialAnnotation/docs/sourcedb/PMC/sourceid/7151644/spans/567-580	2021-11-17	
+ZoonosesDic-id_2878	after	後で			https://pubannotation.org/projects/Zoonoses_partialAnnotation/docs/sourcedb/PMC/sourceid/7151644/spans/613-618	2021-11-17	
+ZoonosesDic-id_2879	weeks	週間			https://pubannotation.org/projects/Zoonoses_partialAnnotation/docs/sourcedb/PMC/sourceid/7151644/spans/621-626	2021-11-17	
+ZoonosesDic-id_2880	meta-transcriptomics	メタトランスクリプトミクス			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/641-661	2021-11-17	
+ZoonosesDic-id_2881	RNA viruses	RNAウイルス	Tax:2559587		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/758-769	2021-11-17	
+ZoonosesDic-id_2882	dead	死んだ	MESH:D003643		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/784-788	2021-11-17	
+ZoonosesDic-id_2883	Genomic analysis	ゲノム解析			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/800-816	2021-11-17	
+ZoonosesDic-id_2884	these viruses	RNAウイルス	Tax:2559587		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/831-844	2021-11-17	
+ZoonosesDic-id_2885	most closely related to pestiviruses	新規RNAウイルス；最も近いのはペスチウイルス		Tax:11095	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/850-886	2021-11-17	
+ZoonosesDic-id_2886	most closely related to	新規RNAウイルス；最も近いのは（コルティウイルス）		Tax:10911	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/850-873	2021-11-17	
+ZoonosesDic-id_2887	pestiviruses	ペスチウイルス	Tax:11095		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/874-886	2021-11-17	
+ZoonosesDic-id_2888	coltiviruses	コルティウイルス	Tax:10911		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/891-903	2021-11-17	
+ZoonosesDic-id_2889	coltiviruses	（新規RNAウイルス；最も近いのは）コルティウイルス		Tax:10911	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/891-903	2021-11-17	
+ZoonosesDic-id_2890	more than 48	48以上			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/954-966	2021-11-17	
+ZoonosesDic-id_2891	more than	以上			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/954-963	2021-11-17	
+ZoonosesDic-id_2892	per cent	%			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/974-982	2021-11-17	
+ZoonosesDic-id_2893	sequence	（アミノ酸）配列	MESH:D000595		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/983-991	2021-11-17	
+ZoonosesDic-id_2894	divergence	相違			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/992-1002	2021-11-17	
+ZoonosesDic-id_2895	amino acid	アミノ酸（配列）	MESH:D000595		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/1010-1020	2021-11-17	
+ZoonosesDic-id_2896	Dongyang pangolin virus	Dongyang pangolin virus	Tax:2713211		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/1057-1080	2021-11-17	
+ZoonosesDic-id_2897	DYPV	Dongyang pangolin virus	Tax:2713211		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/1082-1086	2021-11-17	
+ZoonosesDic-id_2898	Lishui pangolin virus	Lishui pangolin virus	Tax:2713212		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/1092-1113	2021-11-17	
+ZoonosesDic-id_2899	LSPV	Lishui pangolin virus	Tax:2713212		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/1115-1119	2021-11-17	
+ZoonosesDic-id_2900	sampling site	採取地			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/1134-1147	2021-11-17	
+ZoonosesDic-id_2901	hosts	マレーセンザンコウ（マライセンザンコウ）	Tax:9974		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/1152-1157	2021-11-17	
+ZoonosesDic-id_2902	transmitted	媒介する	MESH:D017282		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/1204-1215	2021-11-17	
+ZoonosesDic-id_2903	ticks	ダニ	Tax:6933		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/1219-1224	2021-11-17	
+ZoonosesDic-id_2904	where	（採集された）場所		MESH:D002681	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/1281-1286	2021-11-17	
+ZoonosesDic-id_2905	collected	採集された		MESH:D002681	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/1306-1315	2021-11-17	
+ZoonosesDic-id_2906	nymph ticks	Amblyomma javanense（マダニの1種）	Tax:1658007		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/1359-1370	2021-11-17	
+ZoonosesDic-id_2907	Amblyomma javanense	Amblyomma javanense（マダニの1種）	Tax:1658007		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/1372-1391	2021-11-17	
+ZoonosesDic-id_2908	diseased	病気の	MESH:D004194		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/1410-1418	2021-11-17	
+ZoonosesDic-id_2909	local	地元の			https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/1456-1461	2021-11-17	
+ZoonosesDic-id_2910	tick	ダニ	Tax:6933		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/1462-1466	2021-11-17	
+ZoonosesDic-id_2911	population	個体群	MESH:D044382		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/1467-1477	2021-11-17	
+ZoonosesDic-id_2912	Epidemiological investigation	疫学調査		MESH:D062665	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/1479-1508	2021-11-17	
+ZoonosesDic-id_2913	viruses	Dongyang pangolin virus	Tax:2713211		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/1534-1541	2021-11-17	
+ZoonosesDic-id_2914	viruses	Lishui pangolin virus	Tax:2713212		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/1534-1541	2021-11-17	
+ZoonosesDic-id_2915	threatens	脅かす		MESH:D056727	https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/1693-1702	2021-11-17	
+ZoonosesDic-id_2916	populations	個体数	MESH:D011153		https://pubannotation.org/projects/Zoonoses/docs/sourcedb/PubMed/sourceid/32296543/spans/1726-1737	2021-11-17	
