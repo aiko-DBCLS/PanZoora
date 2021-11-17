@@ -159,7 +159,6 @@ lexisDic-id_159	deaths	死亡	2021-08-21
 lexisDic-id_160	Sierra Leone	シエラレオネ共和国	2021-08-21	
 lexisDic-id_161	epidemic	アウトブレイク	2021-08-21	
 lexisDic-id_162	West Africa	西アフリカ	2021-08-21	
-lexisDic-id_163	2014	2014年	2021-08-21	
 lexisDic-id_164	promotion	促進	2021-08-21	
 lexisDic-id_165	implementation	実施	2021-08-21	
 lexisDic-id_166	safe	安全	2021-08-21	
@@ -1794,7 +1793,7 @@ lexisDic-id_1795	2007	2007年	2021-09-26
 lexisDic-id_1796	infected	感染した	2021-09-26	
 lexisDic-id_1797	Kitaka	キタカ	2021-09-26	
 lexisDic-id_1798	Mine	鉱山	2021-09-26	
-lexisDic-id_1799	Uganda	ウガンダ	2021-09-26	
+lexisDic-id_1799	Uganda	ウガンダ共和国	2021-09-26	2021-11-30
 lexisDic-id_1800	risk factors	危険因子	2021-09-26	
 lexisDic-id_1801	infection	感染（マールブルグ病/マールブルグ出血熱）	2021-09-26	
 lexisDic-id_1802	infection	感染（エボラウイルス病/エボラ出血熱）	2021-09-26	
@@ -1826,7 +1825,6 @@ lexisDic-id_1827	other	他の	2021-09-26
 lexisDic-id_1828	infecting	感染する	2021-09-26	
 lexisDic-id_1829	predation	捕食	2021-09-26	
 lexisDic-id_1830	Cercopithecus monkeys	Cercopithecus monkeys（霊長目の1種）	2021-09-26	2021-09-29
-lexisDic-id_1831	zoonotic disease	人獣共通感染症	2021-09-26	
 lexisDic-id_1832	over 6.5	6.5以上	2021-09-26	
 lexisDic-id_1833	years	年	2021-09-26	
 lexisDic-id_1834	forests	森	2021-09-26	
@@ -2398,7 +2396,6 @@ lexisDic-id_2399	19	19(93)年	2021-10-22
 lexisDic-id_2400	93	(19)93年	2021-10-22	
 lexisDic-id_2401	reemerged	再興した	2021-10-22	
 lexisDic-id_2402	isolated	独立した	2021-10-22	
-lexisDic-id_2403	2	2	2021-10-22	
 lexisDic-id_2404	animal	ブタ	2021-10-22	
 lexisDic-id_2405	animal	ヒト以外の霊長目	2021-10-22	
 lexisDic-id_2406	intersectoral collaboration	部門間連携	2021-10-22	
@@ -2854,3 +2851,57 @@ lexisDic-id_2855	viruses	Dongyang pangolin virus	2021-11-17
 lexisDic-id_2856	viruses	Lishui pangolin virus	2021-11-17	
 lexisDic-id_2857	threatens	脅かす	2021-11-17	
 lexisDic-id_2858	populations	個体数	2021-11-17	
+lexisDic-id_2859	widely	広く	2021-11-18	
+lexisDic-id_2860	supplement	補足	2021-11-18	
+lexisDic-id_2861	household	家計	2021-11-18	
+lexisDic-id_2862	income	収入	2021-11-18	
+lexisDic-id_2863	regions	地域	2021-11-18	
+lexisDic-id_2864	threats	脅威	2021-11-18	
+lexisDic-id_2865	northern	北部	2021-11-18	
+lexisDic-id_2866	wildlife	霊長目	2021-11-18	
+lexisDic-id_2867	wildlife	コウモリ	2021-11-18	
+lexisDic-id_2868	groups	集団	2021-11-18	
+lexisDic-id_2869	culturally	文化的に	2021-11-18	
+lexisDic-id_2870	accepted	受け入れられる	2021-11-18	
+lexisDic-id_2871	these species	霊長目	2021-11-18	
+lexisDic-id_2872	these species	コウモリ	2021-11-18	
+lexisDic-id_2873	reported	報告した	2021-11-18	
+lexisDic-id_2874	hunted	狩猟した	2021-11-18	
+lexisDic-id_2875	sold	販売した	2021-11-18	
+lexisDic-id_2876	desirable	望ましい	2021-11-18	
+lexisDic-id_2877	species	野生動物	2021-11-18	
+lexisDic-id_2878	antelope	アンテロープ	2021-11-18	
+lexisDic-id_2879	warthog	イボイノシシ	2021-11-18	
+lexisDic-id_2880	market	市場	2021-11-18	
+lexisDic-id_2881	229	229	2021-11-18	
+lexisDic-id_2882	communities	コミュニティー	2021-11-18	
+lexisDic-id_2883	Murchison Falls	マーチソン・フォールズ	2021-11-18	
+lexisDic-id_2884	National Park	国立公園	2021-11-18	
+lexisDic-id_2885	recorded	記録した	2021-11-18	
+lexisDic-id_2886	PCR	PCR	2021-11-18	
+lexisDic-id_2887	cyt b	シトクロムb	2021-11-18	
+lexisDic-id_2888	12 s rRNA	12 s rRNA	2021-11-18	
+lexisDic-id_2889	sequencing	シーケンシング	2021-11-18	
+lexisDic-id_2890	samples	野生動物	2021-11-18	
+lexisDic-id_2891	taxonomic	分類	2021-11-18	
+lexisDic-id_2892	unit	単位	2021-11-18	
+lexisDic-id_2893	NCBI	アメリカ国立生物工学情報センター（NCBI）	2021-11-18	
+lexisDic-id_2894	BLAST	BLAST	2021-11-18	
+lexisDic-id_2895	27.9	27.9	2021-11-18	
+lexisDic-id_2896	61	61	2021-11-18	
+lexisDic-id_2897	/	/	2021-11-18	
+lexisDic-id_2898	219	219	2021-11-18	
+lexisDic-id_2899	disparate	異なる	2021-11-18	
+lexisDic-id_2900	BLAST analysis	BLAST解析	2021-11-18	
+lexisDic-id_2901	Thirty-four	3/4	2021-11-18	
+lexisDic-id_2902	waterbuck	ウォーターバック	2021-11-18	
+lexisDic-id_2903	31.5	31.5	2021-11-18	
+lexisDic-id_2904	13.7	13.7	2021-11-18	
+lexisDic-id_2905	black rat	クマネズミ	2021-11-18	
+lexisDic-id_2906	5.9	5.9	2021-11-18	
+lexisDic-id_2907	consumers	消費者	2021-11-18	
+lexisDic-id_2908	they	消費者	2021-11-18	
+lexisDic-id_2909	assess	（リスクを）評価する	2021-11-18	
+lexisDic-id_2910	risk	リスク（を評価する）	2021-11-18	
+lexisDic-id_2911	precautions	予防策	2021-11-18	
+lexisDic-id_2912	exposure	曝露	2021-11-18	
