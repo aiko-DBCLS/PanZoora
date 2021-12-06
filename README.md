@@ -72,7 +72,7 @@ PanZoora_table_Note; Note-id gives each set of Note and Note_jpn (translated to 
 A few but some data in PanZoora_table_NoteOnTextAE have no URLs. There are two types and not bugs. One of them is categories of Japanese Act, cited from HPs of Japanese government, not exists in Zoonoses project on PubAnnotation/TextAE as publications. The other is a shortage of evidences what the text want to show you on publications stored in PanZoora at present, but could guess indirectly. This is one of challenges on PanZoora. It is not standard way but I prefer to relate meanings of data and show you rather than not entry them. Someday exact matched paper will be found from huge numbers of publications and could register URLs of them.
 
 ## Others_2
-[PanZooraView](http://togodb.org/db/panzoora_view); this is also not a table of PanZoora but exactly what I want to show you. The web pages or dynamic somethings are ordinal form but I have no skills and this is the only way which I can show you.
+[PanZooraView](http://togodb.org/db/panzooraview); this is also not a table of PanZoora but exactly what I want to show you. The web pages or dynamic somethings are ordinal form but I have no skills and this is the only way which I can show you.
 ### About_PanZooraView_1
 Using advanced search button listed on the bottom of center of TogoDB, you can select contexts from PanZoora by putting keywords, the name of zoonoses, species or categories. Those results are connected with different publications, other species or zoonoses and show you the different point of views and extra information.
 ### About_PanZooraView_2
@@ -131,6 +131,9 @@ ZoonosesDic (old name was panzoora_zoonoses_dic) was full exchanged because of i
 
 ## Histories_of_PanZoora_4
 All tables were transferred from TogoDB to GitHub and just [panzoora_view](http://togodb.org/db/panzoora_view) (old name was panzoora_view_relate_data) remains in TogoDB.
+
+## Histories_of_PanZoora_5
+All tables were copied from GitHub to TogoDB. Now same PanZoora exist in both.
 
 ## Afterwords_1
 I hope PanZoora is something for all of you.
