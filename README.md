@@ -130,7 +130,7 @@ First structural change of PanZoora was added new column, spZooCategory-id, to P
 ZoonosesDic (old name was panzoora_zoonoses_dic) was full exchanged because of incorrect duplications.
 
 ## Histories_of_PanZoora_4
-All tables were transferred from TogoDB to GitHub and just [panzoora_view](http://togodb.org/db/panzoora_view) (old name was panzoora_view_relate_data) remains in TogoDB.
+All tables were transferred from TogoDB to GitHub and just [PanZooraView](http://togodb.org/db/panzooraview) (old name was panzoora_view_relate_data) remains in TogoDB.
 
 ## Histories_of_PanZoora_5
 All tables were copied from GitHub to TogoDB. Now same PanZoora exist in both.
