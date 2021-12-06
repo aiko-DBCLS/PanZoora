@@ -865,7 +865,7 @@ lexisDic-id_866	Chiroptera	コウモリ	2021-09-01
 lexisDic-id_867	In silico	コンピューター上	2021-09-01	
 lexisDic-id_868	molecular docking	分子ドッキング	2021-09-01	
 lexisDic-id_869	S protein	（SARS-CoV-2）スパイクタンパク質	2021-09-01	
-lexisDic-id_870	Rhinolophus ferrumequinum	キクガシラコウモリ	2021-09-01	
+lexisDic-id_870	Rhinolophus ferrumequinum	キクガシラコウモリの1種	2021-09-01	2021-11-19
 lexisDic-id_871	sequence similarity	相同性	2021-09-01	
 lexisDic-id_872	ACE2	アンジオテンシン変換酵素2（ハイイログマ）	2021-09-01	
 lexisDic-id_873	ACE2	アンジオテンシン変換酵素2（アナウサギ）	2021-09-01	
@@ -2442,9 +2442,9 @@ lexisDic-id_2446	C. brachyotis (Cynopterus brachyotis)	コイヌガオフルー�
 lexisDic-id_2447	Ch. plicata (Chaerephon plicata)	オヒキコウモリの1種	2021-10-22	
 lexisDic-id_2448	Acerodon jubatus	フィリピンオオコウモリ	2021-10-22	
 lexisDic-id_2449	ELISA	ELISA法	2021-10-22	
-lexisDic-id_2450	taxonomically	分類学的に	2021-10-22	
+lexisDic-id_2450	taxonomically	分類学的に	2021-10-22	2021-12-06
 lexisDic-id_2451	widespread	蔓延した	2021-10-22	
-lexisDic-id_2452	taxonomic	分類学的に	2021-10-22	
+lexisDic-id_2452	taxonomic	分類学的に	2021-10-22	2021-12-06
 lexisDic-id_2453	geographic	地理的	2021-10-22	
 lexisDic-id_2454	ebolaviruses	（レストン）エボラウイルス	2021-10-22	
 lexisDic-id_2455	the region	この地域（フィリピン共和国）	2021-10-22	
@@ -2572,7 +2572,7 @@ lexisDic-id_2576	score	スコア	2021-11-05
 lexisDic-id_2577	0-1.5	0～1.5	2021-11-05	
 lexisDic-id_2578	cell	細胞	2021-11-05	
 lexisDic-id_2579	infiltration	浸潤	2021-11-05	
-lexisDic-id_2580	ankle joint	足首関節	2021-11-05	
+lexisDic-id_2580	ankle joint	足首関節	2021-11-05	2021-12-06
 lexisDic-id_2581	TNF-α	TNF-α	2021-11-05	
 lexisDic-id_2582	< 0.01	0.01より小さい	2021-11-05	
 lexisDic-id_2583	IL-1β	IL-1β	2021-11-05	
@@ -2905,3 +2905,7 @@ lexisDic-id_2909	assess	（リスクを）評価する	2021-11-18
 lexisDic-id_2910	risk	リスク（を評価する）	2021-11-18	
 lexisDic-id_2911	precautions	予防策	2021-11-18	
 lexisDic-id_2912	exposure	曝露	2021-11-18	
+lexisDic-id_2913	viruses closely related to SARS-CoV-2	SARS-CoV-2関連ウイルス		
+lexisDic-id_2914	Rhinolophus acuminatus	トガリキクガシラコウモリ		
+lexisDic-id_2915	Rhinolophus malayanus	マレーキクガシラコウモリ		
+lexisDic-id_2916	Rhinolophus shameli	シャメルキクガシラコウモリ		

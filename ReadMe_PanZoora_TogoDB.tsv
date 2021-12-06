@@ -43,4 +43,5 @@ Histories_of_PanZoora_1	All data were transferred and revised from panzoora_beta
 Histories_of_PanZoora_2	First structural change of PanZoora was added new column, spZooCategory-id, to PanZoora_table_relatedNote and PanZoora_table_lexisMain.	2021-09-30	
 Histories_of_PanZoora_3	ZoonosesDic (old name was panzoora_zoonoses_dic) was full exchanged because of incorrect duplications.	2021-09-30	2021-09-30
 Histories_of_PanZoora_4	All tables were transferred from TogoDB to GitHub and just panzoora_view (http://togodb.org/db/panzoora_view, old name was panzoora_view_relate_data) remains in TogoDB.	2021-10-31	
+Histories_of_PanZoora_5	All tables were copied from GitHub to TogoDB. Now same PanZoora exist in both.	2021-12-06
 Afterwords_1	I hope PanZoora is something for all of you. May some hopes still remain under any zoonotic pandemics.    Sincerely yours,  PanZoora.	2021-09-15	
